@@ -20,19 +20,26 @@ async function start() {
  let dataDir;
  if(testDir) dataDir=testDir;
  else if(app.isPackaged){
-  const configPath=path.join(path.dirname(process.execPath),'desktop-config.json');
-  dataDir=fs.existsSync(configPath)?JSON.parse(fs.readFileSync(configPath,'utf8')).dataDir:path.join(app.getPath('userData'),'library');
+  const persistentConfig=path.join(app.getPath('userData'),'desktop-config.json');
+  const legacyConfig=path.join(path.dirname(process.execPath),'desktop-config.json');
+  const configPath=fs.existsSync(persistentConfig)?persistentConfig:legacyConfig;
+  dataDir=fs.existsSync(configPath)?JSON.parse(fs.readFileSync(configPath,'utf8').replace(/^\uFEFF/, '')).dataDir:path.join(app.getPath('userData'),'library');
+  if(configPath===legacyConfig&&fs.existsSync(legacyConfig)){
+   fs.mkdirSync(app.getPath('userData'),{recursive:true});
+   fs.writeFileSync(persistentConfig,JSON.stringify({dataDir},null,2));
+  }
  }else dataDir=path.join(__dirname,'data');
  dataDir=path.resolve(dataDir);
  const base='http://127.0.0.1:4318';
- const existing=testDir?null:await status(base);
- if(existing&&path.resolve(existing.dataDir)===dataDir)appOrigin=base;
+ const existing=await status(base);
+ if(existing?.local===true&&typeof existing.dataDir==='string'&&path.resolve(existing.dataDir).toLowerCase()===dataDir.toLowerCase())appOrigin=base;
  else {
-  if(existing&&!testDir)throw Error('הפורט המקומי משמש ספרייה אחרת. סגור אותה ונסה שוב.');
   const {createApp}=await import(pathToFileURL(path.join(__dirname,'server.mjs')).href);
   const secretCodec=safeStorage.isEncryptionAvailable()?{encode:s=>safeStorage.encryptString(s).toString('base64'),decode:s=>safeStorage.decryptString(Buffer.from(s,'base64'))}:undefined;
   const webApp=await createApp(dataDir,{secretCodec});
-  await new Promise((resolve,reject)=>{ownedServer=webApp.listen(testDir?0:4318,'127.0.0.1',resolve);ownedServer.once('error',reject);});
+  // A separate library or another application may already use 4318.
+  // Let Windows assign a free port instead of stopping that application.
+  await new Promise((resolve,reject)=>{ownedServer=webApp.listen(0,'127.0.0.1',resolve);ownedServer.once('error',reject);});
   appOrigin='http://127.0.0.1:'+ownedServer.address().port;
  }
  Menu.setApplicationMenu(Menu.buildFromTemplate([

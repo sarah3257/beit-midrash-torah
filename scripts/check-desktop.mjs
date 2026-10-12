@@ -14,7 +14,7 @@ const env={...process.env,TORAH_DESKTOP_TEST_DATA_DIR:dir};delete env.ELECTRON_R
 let electron;
 try{
  electron=await _electron.launch({executablePath:exe,env,timeout:45000});
- const win=await electron.firstWindow();const errors=[];win.on('pageerror',e=>errors.push(e.message));
+ const win=await electron.firstWindow();assert.notEqual(new URL(win.url()).port,'4318','An isolated library must use its own free port');const errors=[];win.on('pageerror',e=>errors.push(e.message));
  await expect(win.locator('h1').first()).toHaveText('ברוכים הבאים לבית המדרש');
  await win.locator('.hero [data-action="new"]').click();await win.locator('#new-title').fill('בדיקת תוכנת המחשב');await win.locator('#location-form button[type="submit"]').click();
  await win.locator('#rich-editor').fill('חידוש שנשמר בתוכנת Windows');await expect(win.locator('#save-state')).toContainText('כל השינויים נשמרו');
