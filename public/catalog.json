@@ -1,0 +1,5368 @@
+{
+  "source": "https://www.sefaria.org",
+  "retrieved": "2026-10-12T04:56:46.443Z",
+  "note": "מיפוי 37 מסכתות הבבלי לפי ספריא. שקלים היא מסכת מן הירושלמי ואינה כלולה בקטלוג הבבלי הזה.",
+  "tractates": [
+    {
+      "id": "berakhot",
+      "title": "Berakhot",
+      "name": "ברכות",
+      "seder": "זרעים",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "מאימתי",
+          "ref": "Berakhot 2a:1-13a:15",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 13,
+            "amud": "a",
+            "segment": 15
+          }
+        },
+        {
+          "id": 2,
+          "name": "היה קורא",
+          "ref": "Berakhot 13a:16-17b:11",
+          "start": {
+            "daf": 13,
+            "amud": "a",
+            "segment": 16
+          },
+          "end": {
+            "daf": 17,
+            "amud": "b",
+            "segment": 11
+          }
+        },
+        {
+          "id": 3,
+          "name": "מי שמתו",
+          "ref": "Berakhot 17b:12-26a:10",
+          "start": {
+            "daf": 17,
+            "amud": "b",
+            "segment": 12
+          },
+          "end": {
+            "daf": 26,
+            "amud": "a",
+            "segment": 10
+          }
+        },
+        {
+          "id": 4,
+          "name": "תפלת השחר",
+          "ref": "Berakhot 26a:11-30b:13",
+          "start": {
+            "daf": 26,
+            "amud": "a",
+            "segment": 11
+          },
+          "end": {
+            "daf": 30,
+            "amud": "b",
+            "segment": 13
+          }
+        },
+        {
+          "id": 5,
+          "name": "אין עומדין",
+          "ref": "Berakhot 30b:14-34b:32",
+          "start": {
+            "daf": 30,
+            "amud": "b",
+            "segment": 14
+          },
+          "end": {
+            "daf": 34,
+            "amud": "b",
+            "segment": 32
+          }
+        },
+        {
+          "id": 6,
+          "name": "כיצד מברכין",
+          "ref": "Berakhot 35a:1-45a:3",
+          "start": {
+            "daf": 35,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 45,
+            "amud": "a",
+            "segment": 3
+          }
+        },
+        {
+          "id": 7,
+          "name": "שלשה שאכלו",
+          "ref": "Berakhot 45a:4-51b:10",
+          "start": {
+            "daf": 45,
+            "amud": "a",
+            "segment": 4
+          },
+          "end": {
+            "daf": 51,
+            "amud": "b",
+            "segment": 10
+          }
+        },
+        {
+          "id": 8,
+          "name": "אלו דברים",
+          "ref": "Berakhot 51b:11-53b:33",
+          "start": {
+            "daf": 51,
+            "amud": "b",
+            "segment": 11
+          },
+          "end": {
+            "daf": 53,
+            "amud": "b",
+            "segment": 33
+          }
+        },
+        {
+          "id": 9,
+          "name": "הרואה",
+          "ref": "Berakhot 54a:1-64a:15",
+          "start": {
+            "daf": 54,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 64,
+            "amud": "a",
+            "segment": 15
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 64,
+        "amud": "a",
+        "segment": 15
+      }
+    },
+    {
+      "id": "shabbat",
+      "title": "Shabbat",
+      "name": "שבת",
+      "seder": "מועד",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "יציאות השבת",
+          "ref": "Shabbat 2a:1-20b:4",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 20,
+            "amud": "b",
+            "segment": 4
+          }
+        },
+        {
+          "id": 2,
+          "name": "במה מדליקין",
+          "ref": "Shabbat 20b:5-36b:2",
+          "start": {
+            "daf": 20,
+            "amud": "b",
+            "segment": 5
+          },
+          "end": {
+            "daf": 36,
+            "amud": "b",
+            "segment": 2
+          }
+        },
+        {
+          "id": 3,
+          "name": "כירה",
+          "ref": "Shabbat 36b:3-47b:7",
+          "start": {
+            "daf": 36,
+            "amud": "b",
+            "segment": 3
+          },
+          "end": {
+            "daf": 47,
+            "amud": "b",
+            "segment": 7
+          }
+        },
+        {
+          "id": 4,
+          "name": "במה טומנין",
+          "ref": "Shabbat 47b:8-51b:6",
+          "start": {
+            "daf": 47,
+            "amud": "b",
+            "segment": 8
+          },
+          "end": {
+            "daf": 51,
+            "amud": "b",
+            "segment": 6
+          }
+        },
+        {
+          "id": 5,
+          "name": "במה בהמה",
+          "ref": "Shabbat 51b:7-56b:20",
+          "start": {
+            "daf": 51,
+            "amud": "b",
+            "segment": 7
+          },
+          "end": {
+            "daf": 56,
+            "amud": "b",
+            "segment": 20
+          }
+        },
+        {
+          "id": 6,
+          "name": "במה אשה",
+          "ref": "Shabbat 57a:1-67b:16",
+          "start": {
+            "daf": 57,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 67,
+            "amud": "b",
+            "segment": 16
+          }
+        },
+        {
+          "id": 7,
+          "name": "כלל גדול",
+          "ref": "Shabbat 67b:17-76b:5",
+          "start": {
+            "daf": 67,
+            "amud": "b",
+            "segment": 17
+          },
+          "end": {
+            "daf": 76,
+            "amud": "b",
+            "segment": 5
+          }
+        },
+        {
+          "id": 8,
+          "name": "המוציא יין",
+          "ref": "Shabbat 76b:6-82a:11",
+          "start": {
+            "daf": 76,
+            "amud": "b",
+            "segment": 6
+          },
+          "end": {
+            "daf": 82,
+            "amud": "a",
+            "segment": 11
+          }
+        },
+        {
+          "id": 9,
+          "name": "אמר רבי עקיבא",
+          "ref": "Shabbat 82a:12-90b:6",
+          "start": {
+            "daf": 82,
+            "amud": "a",
+            "segment": 12
+          },
+          "end": {
+            "daf": 90,
+            "amud": "b",
+            "segment": 6
+          }
+        },
+        {
+          "id": 10,
+          "name": "המצניע",
+          "ref": "Shabbat 90b:7-96a:3",
+          "start": {
+            "daf": 90,
+            "amud": "b",
+            "segment": 7
+          },
+          "end": {
+            "daf": 96,
+            "amud": "a",
+            "segment": 3
+          }
+        },
+        {
+          "id": 11,
+          "name": "הזורק",
+          "ref": "Shabbat 96a:4-102a:13",
+          "start": {
+            "daf": 96,
+            "amud": "a",
+            "segment": 4
+          },
+          "end": {
+            "daf": 102,
+            "amud": "a",
+            "segment": 13
+          }
+        },
+        {
+          "id": 12,
+          "name": "הבונה",
+          "ref": "Shabbat 102b:1-105a:8",
+          "start": {
+            "daf": 102,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 105,
+            "amud": "a",
+            "segment": 8
+          }
+        },
+        {
+          "id": 13,
+          "name": "האורג",
+          "ref": "Shabbat 105a:9-107a:4",
+          "start": {
+            "daf": 105,
+            "amud": "a",
+            "segment": 9
+          },
+          "end": {
+            "daf": 107,
+            "amud": "a",
+            "segment": 4
+          }
+        },
+        {
+          "id": 14,
+          "name": "שמנה שרצים",
+          "ref": "Shabbat 107a:5-111b:4",
+          "start": {
+            "daf": 107,
+            "amud": "a",
+            "segment": 5
+          },
+          "end": {
+            "daf": 111,
+            "amud": "b",
+            "segment": 4
+          }
+        },
+        {
+          "id": 15,
+          "name": "ואלו קשרים",
+          "ref": "Shabbat 111b:5-115a:2",
+          "start": {
+            "daf": 111,
+            "amud": "b",
+            "segment": 5
+          },
+          "end": {
+            "daf": 115,
+            "amud": "a",
+            "segment": 2
+          }
+        },
+        {
+          "id": 16,
+          "name": "כל כתבי",
+          "ref": "Shabbat 115a:3-122b:3",
+          "start": {
+            "daf": 115,
+            "amud": "a",
+            "segment": 3
+          },
+          "end": {
+            "daf": 122,
+            "amud": "b",
+            "segment": 3
+          }
+        },
+        {
+          "id": 17,
+          "name": "כל הכלים",
+          "ref": "Shabbat 122b:4-126b:10",
+          "start": {
+            "daf": 122,
+            "amud": "b",
+            "segment": 4
+          },
+          "end": {
+            "daf": 126,
+            "amud": "b",
+            "segment": 10
+          }
+        },
+        {
+          "id": 18,
+          "name": "מפנין",
+          "ref": "Shabbat 126b:11-129b:18",
+          "start": {
+            "daf": 126,
+            "amud": "b",
+            "segment": 11
+          },
+          "end": {
+            "daf": 129,
+            "amud": "b",
+            "segment": 18
+          }
+        },
+        {
+          "id": 19,
+          "name": "רבי אליעזר דמילה",
+          "ref": "Shabbat 130a:1-137b:10",
+          "start": {
+            "daf": 130,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 137,
+            "amud": "b",
+            "segment": 10
+          }
+        },
+        {
+          "id": 20,
+          "name": "תולין",
+          "ref": "Shabbat 137b:11-141b:18",
+          "start": {
+            "daf": 137,
+            "amud": "b",
+            "segment": 11
+          },
+          "end": {
+            "daf": 141,
+            "amud": "b",
+            "segment": 18
+          }
+        },
+        {
+          "id": 21,
+          "name": "נוטל אדם את בנו",
+          "ref": "Shabbat 141b:19-143a:15",
+          "start": {
+            "daf": 141,
+            "amud": "b",
+            "segment": 19
+          },
+          "end": {
+            "daf": 143,
+            "amud": "a",
+            "segment": 15
+          }
+        },
+        {
+          "id": 22,
+          "name": "חבית",
+          "ref": "Shabbat 143b:1-148a:4",
+          "start": {
+            "daf": 143,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 148,
+            "amud": "a",
+            "segment": 4
+          }
+        },
+        {
+          "id": 23,
+          "name": "שואל",
+          "ref": "Shabbat 148a:5-153a:10",
+          "start": {
+            "daf": 148,
+            "amud": "a",
+            "segment": 5
+          },
+          "end": {
+            "daf": 153,
+            "amud": "a",
+            "segment": 10
+          }
+        },
+        {
+          "id": 24,
+          "name": "מי שהחשיך",
+          "ref": "Shabbat 153a:11-157b:3",
+          "start": {
+            "daf": 153,
+            "amud": "a",
+            "segment": 11
+          },
+          "end": {
+            "daf": 157,
+            "amud": "b",
+            "segment": 3
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 157,
+        "amud": "b",
+        "segment": 3
+      }
+    },
+    {
+      "id": "eruvin",
+      "title": "Eruvin",
+      "name": "עירובין",
+      "seder": "מועד",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "מבוי",
+          "ref": "Eruvin 2a:1-17b:14",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 17,
+            "amud": "b",
+            "segment": 14
+          }
+        },
+        {
+          "id": 2,
+          "name": "עושין פסין",
+          "ref": "Eruvin 17b:15-26b:16",
+          "start": {
+            "daf": 17,
+            "amud": "b",
+            "segment": 15
+          },
+          "end": {
+            "daf": 26,
+            "amud": "b",
+            "segment": 16
+          }
+        },
+        {
+          "id": 3,
+          "name": "בכל מערבין",
+          "ref": "Eruvin 26b:17-41b:5",
+          "start": {
+            "daf": 26,
+            "amud": "b",
+            "segment": 17
+          },
+          "end": {
+            "daf": 41,
+            "amud": "b",
+            "segment": 5
+          }
+        },
+        {
+          "id": 4,
+          "name": "מי שהוציאוהו",
+          "ref": "Eruvin 41b:6-52b:15",
+          "start": {
+            "daf": 41,
+            "amud": "b",
+            "segment": 6
+          },
+          "end": {
+            "daf": 52,
+            "amud": "b",
+            "segment": 15
+          }
+        },
+        {
+          "id": 5,
+          "name": "כיצד מעברין",
+          "ref": "Eruvin 52b:16-61b:10",
+          "start": {
+            "daf": 52,
+            "amud": "b",
+            "segment": 16
+          },
+          "end": {
+            "daf": 61,
+            "amud": "b",
+            "segment": 10
+          }
+        },
+        {
+          "id": 6,
+          "name": "הדר",
+          "ref": "Eruvin 61b:11-76a:6",
+          "start": {
+            "daf": 61,
+            "amud": "b",
+            "segment": 11
+          },
+          "end": {
+            "daf": 76,
+            "amud": "a",
+            "segment": 6
+          }
+        },
+        {
+          "id": 7,
+          "name": "חלון",
+          "ref": "Eruvin 76a:7-82a:9",
+          "start": {
+            "daf": 76,
+            "amud": "a",
+            "segment": 7
+          },
+          "end": {
+            "daf": 82,
+            "amud": "a",
+            "segment": 9
+          }
+        },
+        {
+          "id": 8,
+          "name": "כיצד משתתפין",
+          "ref": "Eruvin 82a:10-89a:3",
+          "start": {
+            "daf": 82,
+            "amud": "a",
+            "segment": 10
+          },
+          "end": {
+            "daf": 89,
+            "amud": "a",
+            "segment": 3
+          }
+        },
+        {
+          "id": 9,
+          "name": "כל גגות",
+          "ref": "Eruvin 89a:4-95a:21",
+          "start": {
+            "daf": 89,
+            "amud": "a",
+            "segment": 4
+          },
+          "end": {
+            "daf": 95,
+            "amud": "a",
+            "segment": 21
+          }
+        },
+        {
+          "id": 10,
+          "name": "המוצא תפילין",
+          "ref": "Eruvin 95a:22-105a:12",
+          "start": {
+            "daf": 95,
+            "amud": "a",
+            "segment": 22
+          },
+          "end": {
+            "daf": 105,
+            "amud": "a",
+            "segment": 12
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 105,
+        "amud": "a",
+        "segment": 12
+      }
+    },
+    {
+      "id": "pesachim",
+      "title": "Pesachim",
+      "name": "פסחים",
+      "seder": "מועד",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "אור לארבעה עשר",
+          "ref": "Pesachim 2a:1-21a:7",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 21,
+            "amud": "a",
+            "segment": 7
+          }
+        },
+        {
+          "id": 2,
+          "name": "כל שעה",
+          "ref": "Pesachim 21a:8-42a:14",
+          "start": {
+            "daf": 21,
+            "amud": "a",
+            "segment": 8
+          },
+          "end": {
+            "daf": 42,
+            "amud": "a",
+            "segment": 14
+          }
+        },
+        {
+          "id": 3,
+          "name": "אלו עוברין",
+          "ref": "Pesachim 42a:15-50a:22",
+          "start": {
+            "daf": 42,
+            "amud": "a",
+            "segment": 15
+          },
+          "end": {
+            "daf": 50,
+            "amud": "a",
+            "segment": 22
+          }
+        },
+        {
+          "id": 4,
+          "name": "מקום שנהגו",
+          "ref": "Pesachim 50a:23-57b:3",
+          "start": {
+            "daf": 50,
+            "amud": "a",
+            "segment": 23
+          },
+          "end": {
+            "daf": 57,
+            "amud": "b",
+            "segment": 3
+          }
+        },
+        {
+          "id": 5,
+          "name": "תמיד נשחט",
+          "ref": "Pesachim 58a:1-65b:9",
+          "start": {
+            "daf": 58,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 65,
+            "amud": "b",
+            "segment": 9
+          }
+        },
+        {
+          "id": 6,
+          "name": "אלו דברים",
+          "ref": "Pesachim 65b:10-73b:16",
+          "start": {
+            "daf": 65,
+            "amud": "b",
+            "segment": 10
+          },
+          "end": {
+            "daf": 73,
+            "amud": "b",
+            "segment": 16
+          }
+        },
+        {
+          "id": 7,
+          "name": "כיצד צולין",
+          "ref": "Pesachim 74a:1-86b:13",
+          "start": {
+            "daf": 74,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 86,
+            "amud": "b",
+            "segment": 13
+          }
+        },
+        {
+          "id": 8,
+          "name": "האשה",
+          "ref": "Pesachim 87a:1-92b:3",
+          "start": {
+            "daf": 87,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 92,
+            "amud": "b",
+            "segment": 3
+          }
+        },
+        {
+          "id": 9,
+          "name": "מי שהיה טמא",
+          "ref": "Pesachim 92b:4-99a:5",
+          "start": {
+            "daf": 92,
+            "amud": "b",
+            "segment": 4
+          },
+          "end": {
+            "daf": 99,
+            "amud": "a",
+            "segment": 5
+          }
+        },
+        {
+          "id": 10,
+          "name": "ערבי פסחים",
+          "ref": "Pesachim 99b:1-121b:3",
+          "start": {
+            "daf": 99,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 121,
+            "amud": "b",
+            "segment": 3
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 121,
+        "amud": "b",
+        "segment": 3
+      }
+    },
+    {
+      "id": "yoma",
+      "title": "Yoma",
+      "name": "יומא",
+      "seder": "מועד",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "שבעת ימים",
+          "ref": "Yoma 2a:1-21b:15",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 21,
+            "amud": "b",
+            "segment": 15
+          }
+        },
+        {
+          "id": 2,
+          "name": "בראשונה",
+          "ref": "Yoma 22a:1-28a:9",
+          "start": {
+            "daf": 22,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 28,
+            "amud": "a",
+            "segment": 9
+          }
+        },
+        {
+          "id": 3,
+          "name": "אמר להם הממונה",
+          "ref": "Yoma 28a:10-39a:5",
+          "start": {
+            "daf": 28,
+            "amud": "a",
+            "segment": 10
+          },
+          "end": {
+            "daf": 39,
+            "amud": "a",
+            "segment": 5
+          }
+        },
+        {
+          "id": 4,
+          "name": "טרף בקלפי",
+          "ref": "Yoma 39a:6-46b:11",
+          "start": {
+            "daf": 39,
+            "amud": "a",
+            "segment": 6
+          },
+          "end": {
+            "daf": 46,
+            "amud": "b",
+            "segment": 11
+          }
+        },
+        {
+          "id": 5,
+          "name": "הוציאו לו",
+          "ref": "Yoma 47a:1-62a:7",
+          "start": {
+            "daf": 47,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 62,
+            "amud": "a",
+            "segment": 7
+          }
+        },
+        {
+          "id": 6,
+          "name": "שני שעירי",
+          "ref": "Yoma 62a:8-68b:11",
+          "start": {
+            "daf": 62,
+            "amud": "a",
+            "segment": 8
+          },
+          "end": {
+            "daf": 68,
+            "amud": "b",
+            "segment": 11
+          }
+        },
+        {
+          "id": 7,
+          "name": "בא לו",
+          "ref": "Yoma 68b:12-73b:12",
+          "start": {
+            "daf": 68,
+            "amud": "b",
+            "segment": 12
+          },
+          "end": {
+            "daf": 73,
+            "amud": "b",
+            "segment": 12
+          }
+        },
+        {
+          "id": 8,
+          "name": "יום הכפורים",
+          "ref": "Yoma 73b:13-88a:12",
+          "start": {
+            "daf": 73,
+            "amud": "b",
+            "segment": 13
+          },
+          "end": {
+            "daf": 88,
+            "amud": "a",
+            "segment": 12
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 88,
+        "amud": "a",
+        "segment": 12
+      }
+    },
+    {
+      "id": "sukkah",
+      "title": "Sukkah",
+      "name": "סוכה",
+      "seder": "מועד",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "סוכה",
+          "ref": "Sukkah 2a:1-20b:9",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 20,
+            "amud": "b",
+            "segment": 9
+          }
+        },
+        {
+          "id": 2,
+          "name": "הישן",
+          "ref": "Sukkah 20b:10-29b:3",
+          "start": {
+            "daf": 20,
+            "amud": "b",
+            "segment": 10
+          },
+          "end": {
+            "daf": 29,
+            "amud": "b",
+            "segment": 3
+          }
+        },
+        {
+          "id": 3,
+          "name": "לולב הגזול",
+          "ref": "Sukkah 29b:4-42b:4",
+          "start": {
+            "daf": 29,
+            "amud": "b",
+            "segment": 4
+          },
+          "end": {
+            "daf": 42,
+            "amud": "b",
+            "segment": 4
+          }
+        },
+        {
+          "id": 4,
+          "name": "לולב וערבה",
+          "ref": "Sukkah 42b:5-50a:5",
+          "start": {
+            "daf": 42,
+            "amud": "b",
+            "segment": 5
+          },
+          "end": {
+            "daf": 50,
+            "amud": "a",
+            "segment": 5
+          }
+        },
+        {
+          "id": 5,
+          "name": "החליל",
+          "ref": "Sukkah 50a:6-56b:9",
+          "start": {
+            "daf": 50,
+            "amud": "a",
+            "segment": 6
+          },
+          "end": {
+            "daf": 56,
+            "amud": "b",
+            "segment": 9
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 56,
+        "amud": "b",
+        "segment": 9
+      }
+    },
+    {
+      "id": "beitzah",
+      "title": "Beitzah",
+      "name": "ביצה",
+      "seder": "מועד",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "ביצה",
+          "ref": "Beitzah 2a:1-15a:15",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 15,
+            "amud": "a",
+            "segment": 15
+          }
+        },
+        {
+          "id": 2,
+          "name": "יום טוב",
+          "ref": "Beitzah 15b:1-23b:10",
+          "start": {
+            "daf": 15,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 23,
+            "amud": "b",
+            "segment": 10
+          }
+        },
+        {
+          "id": 3,
+          "name": "אין צדין",
+          "ref": "Beitzah 23b:11-29b:9",
+          "start": {
+            "daf": 23,
+            "amud": "b",
+            "segment": 11
+          },
+          "end": {
+            "daf": 29,
+            "amud": "b",
+            "segment": 9
+          }
+        },
+        {
+          "id": 4,
+          "name": "המביא כדי יין",
+          "ref": "Beitzah 29b:10-35b:6",
+          "start": {
+            "daf": 29,
+            "amud": "b",
+            "segment": 10
+          },
+          "end": {
+            "daf": 35,
+            "amud": "b",
+            "segment": 6
+          }
+        },
+        {
+          "id": 5,
+          "name": "משילין",
+          "ref": "Beitzah 35b:7-40b:4",
+          "start": {
+            "daf": 35,
+            "amud": "b",
+            "segment": 7
+          },
+          "end": {
+            "daf": 40,
+            "amud": "b",
+            "segment": 4
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 40,
+        "amud": "b",
+        "segment": 4
+      }
+    },
+    {
+      "id": "rosh-hashanah",
+      "title": "Rosh Hashanah",
+      "name": "ראש השנה",
+      "seder": "מועד",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "ארבעה ראשי שנים",
+          "ref": "Rosh Hashanah 2a:1-22a:12",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 22,
+            "amud": "a",
+            "segment": 12
+          }
+        },
+        {
+          "id": 2,
+          "name": "אם אינן מכירין",
+          "ref": "Rosh Hashanah 22a:13-25b:6",
+          "start": {
+            "daf": 22,
+            "amud": "a",
+            "segment": 13
+          },
+          "end": {
+            "daf": 25,
+            "amud": "b",
+            "segment": 6
+          }
+        },
+        {
+          "id": 3,
+          "name": "ראוהו בית דין",
+          "ref": "Rosh Hashanah 25b:7-29b:4",
+          "start": {
+            "daf": 25,
+            "amud": "b",
+            "segment": 7
+          },
+          "end": {
+            "daf": 29,
+            "amud": "b",
+            "segment": 4
+          }
+        },
+        {
+          "id": 4,
+          "name": "יום טוב",
+          "ref": "Rosh Hashanah 29b:5-35a:13",
+          "start": {
+            "daf": 29,
+            "amud": "b",
+            "segment": 5
+          },
+          "end": {
+            "daf": 35,
+            "amud": "a",
+            "segment": 13
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 35,
+        "amud": "a",
+        "segment": 13
+      }
+    },
+    {
+      "id": "taanit",
+      "title": "Taanit",
+      "name": "תענית",
+      "seder": "מועד",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "מאימתי מזכירין",
+          "ref": "Taanit 2a:1-15a:3",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 15,
+            "amud": "a",
+            "segment": 3
+          }
+        },
+        {
+          "id": 2,
+          "name": "סדר תעניות כיצד",
+          "ref": "Taanit 15a:4-18b:13",
+          "start": {
+            "daf": 15,
+            "amud": "a",
+            "segment": 4
+          },
+          "end": {
+            "daf": 18,
+            "amud": "b",
+            "segment": 13
+          }
+        },
+        {
+          "id": 3,
+          "name": "סדר תעניות אלו",
+          "ref": "Taanit 18b:14-26a:2",
+          "start": {
+            "daf": 18,
+            "amud": "b",
+            "segment": 14
+          },
+          "end": {
+            "daf": 26,
+            "amud": "a",
+            "segment": 2
+          }
+        },
+        {
+          "id": 4,
+          "name": "בשלשה פרקים",
+          "ref": "Taanit 26a:3-31a:10",
+          "start": {
+            "daf": 26,
+            "amud": "a",
+            "segment": 3
+          },
+          "end": {
+            "daf": 31,
+            "amud": "a",
+            "segment": 10
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 31,
+        "amud": "a",
+        "segment": 10
+      }
+    },
+    {
+      "id": "megillah",
+      "title": "Megillah",
+      "name": "מגילה",
+      "seder": "מועד",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "מגילה נקראת",
+          "ref": "Megillah 2a:1-17a:8",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 17,
+            "amud": "a",
+            "segment": 8
+          }
+        },
+        {
+          "id": 2,
+          "name": "הקורא למפרע",
+          "ref": "Megillah 17a:9-21a:9",
+          "start": {
+            "daf": 17,
+            "amud": "a",
+            "segment": 9
+          },
+          "end": {
+            "daf": 21,
+            "amud": "a",
+            "segment": 9
+          }
+        },
+        {
+          "id": 3,
+          "name": "הקורא עומד",
+          "ref": "Megillah 21a:10-25b:19",
+          "start": {
+            "daf": 21,
+            "amud": "a",
+            "segment": 10
+          },
+          "end": {
+            "daf": 25,
+            "amud": "b",
+            "segment": 19
+          }
+        },
+        {
+          "id": 4,
+          "name": "בני העיר",
+          "ref": "Megillah 25b:20-32a:18",
+          "start": {
+            "daf": 25,
+            "amud": "b",
+            "segment": 20
+          },
+          "end": {
+            "daf": 32,
+            "amud": "a",
+            "segment": 18
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 32,
+        "amud": "a",
+        "segment": 18
+      }
+    },
+    {
+      "id": "moed-katan",
+      "title": "Moed Katan",
+      "name": "מועד קטן",
+      "seder": "מועד",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "משקין בית השלחין",
+          "ref": "Moed Katan 2a:1-11a:21",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 11,
+            "amud": "a",
+            "segment": 21
+          }
+        },
+        {
+          "id": 2,
+          "name": "מי שהפך",
+          "ref": "Moed Katan 11b:1-13b:14",
+          "start": {
+            "daf": 11,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 13,
+            "amud": "b",
+            "segment": 14
+          }
+        },
+        {
+          "id": 3,
+          "name": "ואלו מגלחין",
+          "ref": "Moed Katan 13b:15-29a:7",
+          "start": {
+            "daf": 13,
+            "amud": "b",
+            "segment": 15
+          },
+          "end": {
+            "daf": 29,
+            "amud": "a",
+            "segment": 7
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 29,
+        "amud": "a",
+        "segment": 7
+      }
+    },
+    {
+      "id": "chagigah",
+      "title": "Chagigah",
+      "name": "חגיגה",
+      "seder": "מועד",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "הכל חייבין",
+          "ref": "Chagigah 2a:1-11b:5",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 11,
+            "amud": "b",
+            "segment": 5
+          }
+        },
+        {
+          "id": 2,
+          "name": "אין דורשין",
+          "ref": "Chagigah 11b:6-20b:6",
+          "start": {
+            "daf": 11,
+            "amud": "b",
+            "segment": 6
+          },
+          "end": {
+            "daf": 20,
+            "amud": "b",
+            "segment": 6
+          }
+        },
+        {
+          "id": 3,
+          "name": "חומר בקודש",
+          "ref": "Chagigah 20b:7-27a:9",
+          "start": {
+            "daf": 20,
+            "amud": "b",
+            "segment": 7
+          },
+          "end": {
+            "daf": 27,
+            "amud": "a",
+            "segment": 9
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 27,
+        "amud": "a",
+        "segment": 9
+      }
+    },
+    {
+      "id": "yevamot",
+      "title": "Yevamot",
+      "name": "יבמות",
+      "seder": "נשים",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "חמש עשרה נשים",
+          "ref": "Yevamot 2a:1-17a:10",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 17,
+            "amud": "a",
+            "segment": 10
+          }
+        },
+        {
+          "id": 2,
+          "name": "כיצד אשת אחיו",
+          "ref": "Yevamot 17a:11-26a:14",
+          "start": {
+            "daf": 17,
+            "amud": "a",
+            "segment": 11
+          },
+          "end": {
+            "daf": 26,
+            "amud": "a",
+            "segment": 14
+          }
+        },
+        {
+          "id": 3,
+          "name": "ארבעה אחין",
+          "ref": "Yevamot 26a:15-35a:11",
+          "start": {
+            "daf": 26,
+            "amud": "a",
+            "segment": 15
+          },
+          "end": {
+            "daf": 35,
+            "amud": "a",
+            "segment": 11
+          }
+        },
+        {
+          "id": 4,
+          "name": "החולץ",
+          "ref": "Yevamot 35b:1-50a:5",
+          "start": {
+            "daf": 35,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 50,
+            "amud": "a",
+            "segment": 5
+          }
+        },
+        {
+          "id": 5,
+          "name": "רבן גמליאל",
+          "ref": "Yevamot 50a:6-53b:7",
+          "start": {
+            "daf": 50,
+            "amud": "a",
+            "segment": 6
+          },
+          "end": {
+            "daf": 53,
+            "amud": "b",
+            "segment": 7
+          }
+        },
+        {
+          "id": 6,
+          "name": "הבא על יבמתו",
+          "ref": "Yevamot 53b:8-66a:3",
+          "start": {
+            "daf": 53,
+            "amud": "b",
+            "segment": 8
+          },
+          "end": {
+            "daf": 66,
+            "amud": "a",
+            "segment": 3
+          }
+        },
+        {
+          "id": 7,
+          "name": "אלמנה לכהן גדול",
+          "ref": "Yevamot 66a:4-70a:11",
+          "start": {
+            "daf": 66,
+            "amud": "a",
+            "segment": 4
+          },
+          "end": {
+            "daf": 70,
+            "amud": "a",
+            "segment": 11
+          }
+        },
+        {
+          "id": 8,
+          "name": "הערל",
+          "ref": "Yevamot 70a:12-84a:4",
+          "start": {
+            "daf": 70,
+            "amud": "a",
+            "segment": 12
+          },
+          "end": {
+            "daf": 84,
+            "amud": "a",
+            "segment": 4
+          }
+        },
+        {
+          "id": 9,
+          "name": "יש מותרות",
+          "ref": "Yevamot 84a:5-87b:8",
+          "start": {
+            "daf": 84,
+            "amud": "a",
+            "segment": 5
+          },
+          "end": {
+            "daf": 87,
+            "amud": "b",
+            "segment": 8
+          }
+        },
+        {
+          "id": 10,
+          "name": "האישה רבה",
+          "ref": "Yevamot 87b:9-97a:8",
+          "start": {
+            "daf": 87,
+            "amud": "b",
+            "segment": 9
+          },
+          "end": {
+            "daf": 97,
+            "amud": "a",
+            "segment": 8
+          }
+        },
+        {
+          "id": 11,
+          "name": "נושאין על האנוסה",
+          "ref": "Yevamot 97a:9-101a:8",
+          "start": {
+            "daf": 97,
+            "amud": "a",
+            "segment": 9
+          },
+          "end": {
+            "daf": 101,
+            "amud": "a",
+            "segment": 8
+          }
+        },
+        {
+          "id": 12,
+          "name": "מצות חליצה",
+          "ref": "Yevamot 101a:9-106b:14",
+          "start": {
+            "daf": 101,
+            "amud": "a",
+            "segment": 9
+          },
+          "end": {
+            "daf": 106,
+            "amud": "b",
+            "segment": 14
+          }
+        },
+        {
+          "id": 13,
+          "name": "בית שמאי",
+          "ref": "Yevamot 107a:1-112b:4",
+          "start": {
+            "daf": 107,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 112,
+            "amud": "b",
+            "segment": 4
+          }
+        },
+        {
+          "id": 14,
+          "name": "חרש שנשא",
+          "ref": "Yevamot 112b:5-114b:10",
+          "start": {
+            "daf": 112,
+            "amud": "b",
+            "segment": 5
+          },
+          "end": {
+            "daf": 114,
+            "amud": "b",
+            "segment": 10
+          }
+        },
+        {
+          "id": 15,
+          "name": "האשה שלום",
+          "ref": "Yevamot 114b:11-118b:19",
+          "start": {
+            "daf": 114,
+            "amud": "b",
+            "segment": 11
+          },
+          "end": {
+            "daf": 118,
+            "amud": "b",
+            "segment": 19
+          }
+        },
+        {
+          "id": 16,
+          "name": "האשה בתרא",
+          "ref": "Yevamot 119a:1-122b:12",
+          "start": {
+            "daf": 119,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 122,
+            "amud": "b",
+            "segment": 12
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 122,
+        "amud": "b",
+        "segment": 12
+      }
+    },
+    {
+      "id": "ketubot",
+      "title": "Ketubot",
+      "name": "כתובות",
+      "seder": "נשים",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "בתולה נשאת",
+          "ref": "Ketubot 2a:1-15b:11",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 15,
+            "amud": "b",
+            "segment": 11
+          }
+        },
+        {
+          "id": 2,
+          "name": "האשה שנתארמלה",
+          "ref": "Ketubot 15b:12-28b:14",
+          "start": {
+            "daf": 15,
+            "amud": "b",
+            "segment": 12
+          },
+          "end": {
+            "daf": 28,
+            "amud": "b",
+            "segment": 14
+          }
+        },
+        {
+          "id": 3,
+          "name": "אלו נערות",
+          "ref": "Ketubot 29a:1-41b:10",
+          "start": {
+            "daf": 29,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 41,
+            "amud": "b",
+            "segment": 10
+          }
+        },
+        {
+          "id": 4,
+          "name": "נערה שנתפתתה",
+          "ref": "Ketubot 41b:11-54b:5",
+          "start": {
+            "daf": 41,
+            "amud": "b",
+            "segment": 11
+          },
+          "end": {
+            "daf": 54,
+            "amud": "b",
+            "segment": 5
+          }
+        },
+        {
+          "id": 5,
+          "name": "אף על פי",
+          "ref": "Ketubot 54b:6-65b:12",
+          "start": {
+            "daf": 54,
+            "amud": "b",
+            "segment": 6
+          },
+          "end": {
+            "daf": 65,
+            "amud": "b",
+            "segment": 12
+          }
+        },
+        {
+          "id": 6,
+          "name": "מציאת האשה",
+          "ref": "Ketubot 65b:13-70a:6",
+          "start": {
+            "daf": 65,
+            "amud": "b",
+            "segment": 13
+          },
+          "end": {
+            "daf": 70,
+            "amud": "a",
+            "segment": 6
+          }
+        },
+        {
+          "id": 7,
+          "name": "המדיר",
+          "ref": "Ketubot 70a:7-77b:14",
+          "start": {
+            "daf": 70,
+            "amud": "a",
+            "segment": 7
+          },
+          "end": {
+            "daf": 77,
+            "amud": "b",
+            "segment": 14
+          }
+        },
+        {
+          "id": 8,
+          "name": "האשה שנפלו",
+          "ref": "Ketubot 78a:1-82b:14",
+          "start": {
+            "daf": 78,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 82,
+            "amud": "b",
+            "segment": 14
+          }
+        },
+        {
+          "id": 9,
+          "name": "הכותב לאשתו",
+          "ref": "Ketubot 83a:1-90a:7",
+          "start": {
+            "daf": 83,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 90,
+            "amud": "a",
+            "segment": 7
+          }
+        },
+        {
+          "id": 10,
+          "name": "מי שהיה נשוי",
+          "ref": "Ketubot 90a:8-95b:14",
+          "start": {
+            "daf": 90,
+            "amud": "a",
+            "segment": 8
+          },
+          "end": {
+            "daf": 95,
+            "amud": "b",
+            "segment": 14
+          }
+        },
+        {
+          "id": 11,
+          "name": "אלמנה ניזונת",
+          "ref": "Ketubot 95b:15-101b:12",
+          "start": {
+            "daf": 95,
+            "amud": "b",
+            "segment": 15
+          },
+          "end": {
+            "daf": 101,
+            "amud": "b",
+            "segment": 12
+          }
+        },
+        {
+          "id": 12,
+          "name": "הנושא את האשה",
+          "ref": "Ketubot 101b:13-104b:18",
+          "start": {
+            "daf": 101,
+            "amud": "b",
+            "segment": 13
+          },
+          "end": {
+            "daf": 104,
+            "amud": "b",
+            "segment": 18
+          }
+        },
+        {
+          "id": 13,
+          "name": "שני דייני גזירות",
+          "ref": "Ketubot 104b:19-112b:4",
+          "start": {
+            "daf": 104,
+            "amud": "b",
+            "segment": 19
+          },
+          "end": {
+            "daf": 112,
+            "amud": "b",
+            "segment": 4
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 112,
+        "amud": "b",
+        "segment": 4
+      }
+    },
+    {
+      "id": "nedarim",
+      "title": "Nedarim",
+      "name": "נדרים",
+      "seder": "נשים",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "כל כנויי",
+          "ref": "Nedarim 2a:1-13b:6",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 13,
+            "amud": "b",
+            "segment": 6
+          }
+        },
+        {
+          "id": 2,
+          "name": "ואלו מותרין",
+          "ref": "Nedarim 13b:7-20b:13",
+          "start": {
+            "daf": 13,
+            "amud": "b",
+            "segment": 7
+          },
+          "end": {
+            "daf": 20,
+            "amud": "b",
+            "segment": 13
+          }
+        },
+        {
+          "id": 3,
+          "name": "ארבעה נדרים",
+          "ref": "Nedarim 20b:14-32b:9",
+          "start": {
+            "daf": 20,
+            "amud": "b",
+            "segment": 14
+          },
+          "end": {
+            "daf": 32,
+            "amud": "b",
+            "segment": 9
+          }
+        },
+        {
+          "id": 4,
+          "name": "אין בין המודר",
+          "ref": "Nedarim 32b:10-45a:3",
+          "start": {
+            "daf": 32,
+            "amud": "b",
+            "segment": 10
+          },
+          "end": {
+            "daf": 45,
+            "amud": "a",
+            "segment": 3
+          }
+        },
+        {
+          "id": 5,
+          "name": "השותפין שנדרו",
+          "ref": "Nedarim 45b:1-48b:8",
+          "start": {
+            "daf": 45,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 48,
+            "amud": "b",
+            "segment": 8
+          }
+        },
+        {
+          "id": 6,
+          "name": "הנודר מן המבושל",
+          "ref": "Nedarim 49a:1-53b:9",
+          "start": {
+            "daf": 49,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 53,
+            "amud": "b",
+            "segment": 9
+          }
+        },
+        {
+          "id": 7,
+          "name": "הנודר מן הירק",
+          "ref": "Nedarim 54a:1-60a:3",
+          "start": {
+            "daf": 54,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 60,
+            "amud": "a",
+            "segment": 3
+          }
+        },
+        {
+          "id": 8,
+          "name": "קונם יין",
+          "ref": "Nedarim 60a:4-63b:9",
+          "start": {
+            "daf": 60,
+            "amud": "a",
+            "segment": 4
+          },
+          "end": {
+            "daf": 63,
+            "amud": "b",
+            "segment": 9
+          }
+        },
+        {
+          "id": 9,
+          "name": "רבי אליעזר",
+          "ref": "Nedarim 64a:1-66b:9",
+          "start": {
+            "daf": 64,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 66,
+            "amud": "b",
+            "segment": 9
+          }
+        },
+        {
+          "id": 10,
+          "name": "נערה המאורסה",
+          "ref": "Nedarim 66b:10-79a:10",
+          "start": {
+            "daf": 66,
+            "amud": "b",
+            "segment": 10
+          },
+          "end": {
+            "daf": 79,
+            "amud": "a",
+            "segment": 10
+          }
+        },
+        {
+          "id": 11,
+          "name": "ואלו נדרים",
+          "ref": "Nedarim 79a:11-91b:7",
+          "start": {
+            "daf": 79,
+            "amud": "a",
+            "segment": 11
+          },
+          "end": {
+            "daf": 91,
+            "amud": "b",
+            "segment": 7
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 91,
+        "amud": "b",
+        "segment": 7
+      }
+    },
+    {
+      "id": "nazir",
+      "title": "Nazir",
+      "name": "נזיר",
+      "seder": "נשים",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "כל כנויי נזירות",
+          "ref": "Nazir 2a:1-8b:12",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 8,
+            "amud": "b",
+            "segment": 12
+          }
+        },
+        {
+          "id": 2,
+          "name": "הריני נזיר",
+          "ref": "Nazir 9a:1-16a:3",
+          "start": {
+            "daf": 9,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 16,
+            "amud": "a",
+            "segment": 3
+          }
+        },
+        {
+          "id": 3,
+          "name": "מי שאמר קמא",
+          "ref": "Nazir 16a:4-20b:2",
+          "start": {
+            "daf": 16,
+            "amud": "a",
+            "segment": 4
+          },
+          "end": {
+            "daf": 20,
+            "amud": "b",
+            "segment": 2
+          }
+        },
+        {
+          "id": 4,
+          "name": "מי שאמר בתרא",
+          "ref": "Nazir 20b:3-30b:10",
+          "start": {
+            "daf": 20,
+            "amud": "b",
+            "segment": 3
+          },
+          "end": {
+            "daf": 30,
+            "amud": "b",
+            "segment": 10
+          }
+        },
+        {
+          "id": 5,
+          "name": "בית שמאי",
+          "ref": "Nazir 30b:11-34a:9",
+          "start": {
+            "daf": 30,
+            "amud": "b",
+            "segment": 11
+          },
+          "end": {
+            "daf": 34,
+            "amud": "a",
+            "segment": 9
+          }
+        },
+        {
+          "id": 6,
+          "name": "שלשה מינין",
+          "ref": "Nazir 34a:10-47a:5",
+          "start": {
+            "daf": 34,
+            "amud": "a",
+            "segment": 10
+          },
+          "end": {
+            "daf": 47,
+            "amud": "a",
+            "segment": 5
+          }
+        },
+        {
+          "id": 7,
+          "name": "כהן גדול",
+          "ref": "Nazir 47a:6-57a:3",
+          "start": {
+            "daf": 47,
+            "amud": "a",
+            "segment": 6
+          },
+          "end": {
+            "daf": 57,
+            "amud": "a",
+            "segment": 3
+          }
+        },
+        {
+          "id": 8,
+          "name": "שני נזירים",
+          "ref": "Nazir 57a:4-61a:5",
+          "start": {
+            "daf": 57,
+            "amud": "a",
+            "segment": 4
+          },
+          "end": {
+            "daf": 61,
+            "amud": "a",
+            "segment": 5
+          }
+        },
+        {
+          "id": 9,
+          "name": "הכותים אין להם נזירות",
+          "ref": "Nazir 61a:6-66b:5",
+          "start": {
+            "daf": 61,
+            "amud": "a",
+            "segment": 6
+          },
+          "end": {
+            "daf": 66,
+            "amud": "b",
+            "segment": 5
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 66,
+        "amud": "b",
+        "segment": 5
+      }
+    },
+    {
+      "id": "sotah",
+      "title": "Sotah",
+      "name": "סוטה",
+      "seder": "נשים",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "המקנא",
+          "ref": "Sotah 2a:1-14a:11",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 14,
+            "amud": "a",
+            "segment": 11
+          }
+        },
+        {
+          "id": 2,
+          "name": "היה מביא",
+          "ref": "Sotah 14a:12-19a:6",
+          "start": {
+            "daf": 14,
+            "amud": "a",
+            "segment": 12
+          },
+          "end": {
+            "daf": 19,
+            "amud": "a",
+            "segment": 6
+          }
+        },
+        {
+          "id": 3,
+          "name": "היה נוטל",
+          "ref": "Sotah 19a:7-23b:13",
+          "start": {
+            "daf": 19,
+            "amud": "a",
+            "segment": 7
+          },
+          "end": {
+            "daf": 23,
+            "amud": "b",
+            "segment": 13
+          }
+        },
+        {
+          "id": 4,
+          "name": "ארוסה",
+          "ref": "Sotah 23b:14-27b:2",
+          "start": {
+            "daf": 23,
+            "amud": "b",
+            "segment": 14
+          },
+          "end": {
+            "daf": 27,
+            "amud": "b",
+            "segment": 2
+          }
+        },
+        {
+          "id": 5,
+          "name": "כשם שהמים",
+          "ref": "Sotah 27b:3-31a:13",
+          "start": {
+            "daf": 27,
+            "amud": "b",
+            "segment": 3
+          },
+          "end": {
+            "daf": 31,
+            "amud": "a",
+            "segment": 13
+          }
+        },
+        {
+          "id": 6,
+          "name": "מי שקינא",
+          "ref": "Sotah 31a:14-32a:4",
+          "start": {
+            "daf": 31,
+            "amud": "a",
+            "segment": 14
+          },
+          "end": {
+            "daf": 32,
+            "amud": "a",
+            "segment": 4
+          }
+        },
+        {
+          "id": 7,
+          "name": "אלו נאמרין",
+          "ref": "Sotah 32a:5-42a:7",
+          "start": {
+            "daf": 32,
+            "amud": "a",
+            "segment": 5
+          },
+          "end": {
+            "daf": 42,
+            "amud": "a",
+            "segment": 7
+          }
+        },
+        {
+          "id": 8,
+          "name": "משוח מלחמה",
+          "ref": "Sotah 42a:8-44b:9",
+          "start": {
+            "daf": 42,
+            "amud": "a",
+            "segment": 8
+          },
+          "end": {
+            "daf": 44,
+            "amud": "b",
+            "segment": 9
+          }
+        },
+        {
+          "id": 9,
+          "name": "עגלה ערופה",
+          "ref": "Sotah 44b:10-49b:20",
+          "start": {
+            "daf": 44,
+            "amud": "b",
+            "segment": 10
+          },
+          "end": {
+            "daf": 49,
+            "amud": "b",
+            "segment": 20
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 49,
+        "amud": "b",
+        "segment": 20
+      }
+    },
+    {
+      "id": "gittin",
+      "title": "Gittin",
+      "name": "גיטין",
+      "seder": "נשים",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "המביא קמא",
+          "ref": "Gittin 2a:1-15a:7",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 15,
+            "amud": "a",
+            "segment": 7
+          }
+        },
+        {
+          "id": 2,
+          "name": "המביא בתרא",
+          "ref": "Gittin 15a:8-24a:15",
+          "start": {
+            "daf": 15,
+            "amud": "a",
+            "segment": 8
+          },
+          "end": {
+            "daf": 24,
+            "amud": "a",
+            "segment": 15
+          }
+        },
+        {
+          "id": 3,
+          "name": "כל הגט",
+          "ref": "Gittin 24a:16-32a:2",
+          "start": {
+            "daf": 24,
+            "amud": "a",
+            "segment": 16
+          },
+          "end": {
+            "daf": 32,
+            "amud": "a",
+            "segment": 2
+          }
+        },
+        {
+          "id": 4,
+          "name": "השולח",
+          "ref": "Gittin 32a:3-48b:5",
+          "start": {
+            "daf": 32,
+            "amud": "a",
+            "segment": 3
+          },
+          "end": {
+            "daf": 48,
+            "amud": "b",
+            "segment": 5
+          }
+        },
+        {
+          "id": 5,
+          "name": "הניזקין",
+          "ref": "Gittin 48b:6-62a:17",
+          "start": {
+            "daf": 48,
+            "amud": "b",
+            "segment": 6
+          },
+          "end": {
+            "daf": 62,
+            "amud": "a",
+            "segment": 17
+          }
+        },
+        {
+          "id": 6,
+          "name": "האומר התקבל",
+          "ref": "Gittin 62b:1-67b:8",
+          "start": {
+            "daf": 62,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 67,
+            "amud": "b",
+            "segment": 8
+          }
+        },
+        {
+          "id": 7,
+          "name": "מי שאחזו",
+          "ref": "Gittin 67b:9-77a:9",
+          "start": {
+            "daf": 67,
+            "amud": "b",
+            "segment": 9
+          },
+          "end": {
+            "daf": 77,
+            "amud": "a",
+            "segment": 9
+          }
+        },
+        {
+          "id": 8,
+          "name": "הזורק גט",
+          "ref": "Gittin 77a:10-82a:6",
+          "start": {
+            "daf": 77,
+            "amud": "a",
+            "segment": 10
+          },
+          "end": {
+            "daf": 82,
+            "amud": "a",
+            "segment": 6
+          }
+        },
+        {
+          "id": 9,
+          "name": "המגרש",
+          "ref": "Gittin 82a:7-90b:8",
+          "start": {
+            "daf": 82,
+            "amud": "a",
+            "segment": 7
+          },
+          "end": {
+            "daf": 90,
+            "amud": "b",
+            "segment": 8
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 90,
+        "amud": "b",
+        "segment": 8
+      }
+    },
+    {
+      "id": "kiddushin",
+      "title": "Kiddushin",
+      "name": "קידושין",
+      "seder": "נשים",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "האשה נקנית",
+          "ref": "Kiddushin 2a:1-41a:2",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 41,
+            "amud": "a",
+            "segment": 2
+          }
+        },
+        {
+          "id": 2,
+          "name": "האיש מקדש",
+          "ref": "Kiddushin 41a:3-58b:11",
+          "start": {
+            "daf": 41,
+            "amud": "a",
+            "segment": 3
+          },
+          "end": {
+            "daf": 58,
+            "amud": "b",
+            "segment": 11
+          }
+        },
+        {
+          "id": 3,
+          "name": "האומר לחברו",
+          "ref": "Kiddushin 58b:12-69a:11",
+          "start": {
+            "daf": 58,
+            "amud": "b",
+            "segment": 12
+          },
+          "end": {
+            "daf": 69,
+            "amud": "a",
+            "segment": 11
+          }
+        },
+        {
+          "id": 4,
+          "name": "עשרה יוחסין",
+          "ref": "Kiddushin 69a:12-82b:6",
+          "start": {
+            "daf": 69,
+            "amud": "a",
+            "segment": 12
+          },
+          "end": {
+            "daf": 82,
+            "amud": "b",
+            "segment": 6
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 82,
+        "amud": "b",
+        "segment": 6
+      }
+    },
+    {
+      "id": "bava-kamma",
+      "title": "Bava Kamma",
+      "name": "בבא קמא",
+      "seder": "נזיקין",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "ארבעה אבות",
+          "ref": "Bava Kamma 2a:1-17a:12",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 17,
+            "amud": "a",
+            "segment": 12
+          }
+        },
+        {
+          "id": 2,
+          "name": "כיצד הרגל",
+          "ref": "Bava Kamma 17a:13-27a:12",
+          "start": {
+            "daf": 17,
+            "amud": "a",
+            "segment": 13
+          },
+          "end": {
+            "daf": 27,
+            "amud": "a",
+            "segment": 12
+          }
+        },
+        {
+          "id": 3,
+          "name": "המניח",
+          "ref": "Bava Kamma 27a:13-36a:8",
+          "start": {
+            "daf": 27,
+            "amud": "a",
+            "segment": 13
+          },
+          "end": {
+            "daf": 36,
+            "amud": "a",
+            "segment": 8
+          }
+        },
+        {
+          "id": 4,
+          "name": "שור שנגח ד' וה'",
+          "ref": "Bava Kamma 36a:9-46a:6",
+          "start": {
+            "daf": 36,
+            "amud": "a",
+            "segment": 9
+          },
+          "end": {
+            "daf": 46,
+            "amud": "a",
+            "segment": 6
+          }
+        },
+        {
+          "id": 5,
+          "name": "שור שנגח את הפרה",
+          "ref": "Bava Kamma 46a:7-55a:16",
+          "start": {
+            "daf": 46,
+            "amud": "a",
+            "segment": 7
+          },
+          "end": {
+            "daf": 55,
+            "amud": "a",
+            "segment": 16
+          }
+        },
+        {
+          "id": 6,
+          "name": "הכונס",
+          "ref": "Bava Kamma 55b:1-62b:6",
+          "start": {
+            "daf": 55,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 62,
+            "amud": "b",
+            "segment": 6
+          }
+        },
+        {
+          "id": 7,
+          "name": "מרובה",
+          "ref": "Bava Kamma 62b:7-83a:12",
+          "start": {
+            "daf": 62,
+            "amud": "b",
+            "segment": 7
+          },
+          "end": {
+            "daf": 83,
+            "amud": "a",
+            "segment": 12
+          }
+        },
+        {
+          "id": 8,
+          "name": "החובל",
+          "ref": "Bava Kamma 83b:1-93a:20",
+          "start": {
+            "daf": 83,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 93,
+            "amud": "a",
+            "segment": 20
+          }
+        },
+        {
+          "id": 9,
+          "name": "הגוזל עצים",
+          "ref": "Bava Kamma 93b:1-111a:21",
+          "start": {
+            "daf": 93,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 111,
+            "amud": "a",
+            "segment": 21
+          }
+        },
+        {
+          "id": 10,
+          "name": "הגוזל בתרא",
+          "ref": "Bava Kamma 111b:1-119b:21",
+          "start": {
+            "daf": 111,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 119,
+            "amud": "b",
+            "segment": 21
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 119,
+        "amud": "b",
+        "segment": 21
+      }
+    },
+    {
+      "id": "bava-metzia",
+      "title": "Bava Metzia",
+      "name": "בבא מציעא",
+      "seder": "נזיקין",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "שנים אוחזין",
+          "ref": "Bava Metzia 2a:1-21a:6",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 21,
+            "amud": "a",
+            "segment": 6
+          }
+        },
+        {
+          "id": 2,
+          "name": "אלו מציאות",
+          "ref": "Bava Metzia 21a:7-33b:6",
+          "start": {
+            "daf": 21,
+            "amud": "a",
+            "segment": 7
+          },
+          "end": {
+            "daf": 33,
+            "amud": "b",
+            "segment": 6
+          }
+        },
+        {
+          "id": 3,
+          "name": "המפקיד",
+          "ref": "Bava Metzia 33b:7-44a:7",
+          "start": {
+            "daf": 33,
+            "amud": "b",
+            "segment": 7
+          },
+          "end": {
+            "daf": 44,
+            "amud": "a",
+            "segment": 7
+          }
+        },
+        {
+          "id": 4,
+          "name": "הזהב",
+          "ref": "Bava Metzia 44a:8-60b:7",
+          "start": {
+            "daf": 44,
+            "amud": "a",
+            "segment": 8
+          },
+          "end": {
+            "daf": 60,
+            "amud": "b",
+            "segment": 7
+          }
+        },
+        {
+          "id": 5,
+          "name": "איזהו נשך",
+          "ref": "Bava Metzia 60b:8-75b:14",
+          "start": {
+            "daf": 60,
+            "amud": "b",
+            "segment": 8
+          },
+          "end": {
+            "daf": 75,
+            "amud": "b",
+            "segment": 14
+          }
+        },
+        {
+          "id": 6,
+          "name": "השוכר את האומנין",
+          "ref": "Bava Metzia 75b:15-83a:11",
+          "start": {
+            "daf": 75,
+            "amud": "b",
+            "segment": 15
+          },
+          "end": {
+            "daf": 83,
+            "amud": "a",
+            "segment": 11
+          }
+        },
+        {
+          "id": 7,
+          "name": "השוכר את הפועלים",
+          "ref": "Bava Metzia 83a:12-94a:15",
+          "start": {
+            "daf": 83,
+            "amud": "a",
+            "segment": 12
+          },
+          "end": {
+            "daf": 94,
+            "amud": "a",
+            "segment": 15
+          }
+        },
+        {
+          "id": 8,
+          "name": "השואל את הפרה",
+          "ref": "Bava Metzia 94a:16-103a:15",
+          "start": {
+            "daf": 94,
+            "amud": "a",
+            "segment": 16
+          },
+          "end": {
+            "daf": 103,
+            "amud": "a",
+            "segment": 15
+          }
+        },
+        {
+          "id": 9,
+          "name": "המקבל שדה מחבירו",
+          "ref": "Bava Metzia 103a:16-116a:9",
+          "start": {
+            "daf": 103,
+            "amud": "a",
+            "segment": 16
+          },
+          "end": {
+            "daf": 116,
+            "amud": "a",
+            "segment": 9
+          }
+        },
+        {
+          "id": 10,
+          "name": "הבית והעלייה",
+          "ref": "Bava Metzia 116b:1-119a:6",
+          "start": {
+            "daf": 116,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 119,
+            "amud": "a",
+            "segment": 6
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 119,
+        "amud": "a",
+        "segment": 6
+      }
+    },
+    {
+      "id": "bava-batra",
+      "title": "Bava Batra",
+      "name": "בבא בתרא",
+      "seder": "נזיקין",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "השותפין",
+          "ref": "Bava Batra 2a:1-17a:7",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 17,
+            "amud": "a",
+            "segment": 7
+          }
+        },
+        {
+          "id": 2,
+          "name": "לא יחפור",
+          "ref": "Bava Batra 17a:8-27b:24",
+          "start": {
+            "daf": 17,
+            "amud": "a",
+            "segment": 8
+          },
+          "end": {
+            "daf": 27,
+            "amud": "b",
+            "segment": 24
+          }
+        },
+        {
+          "id": 3,
+          "name": "חזקת הבתים",
+          "ref": "Bava Batra 28a:1-60b:22",
+          "start": {
+            "daf": 28,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 60,
+            "amud": "b",
+            "segment": 22
+          }
+        },
+        {
+          "id": 4,
+          "name": "המוכר את הבית",
+          "ref": "Bava Batra 61a:1-73a:2",
+          "start": {
+            "daf": 61,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 73,
+            "amud": "a",
+            "segment": 2
+          }
+        },
+        {
+          "id": 5,
+          "name": "המוכר את הספינה",
+          "ref": "Bava Batra 73a:3-91b:18",
+          "start": {
+            "daf": 73,
+            "amud": "a",
+            "segment": 3
+          },
+          "end": {
+            "daf": 91,
+            "amud": "b",
+            "segment": 18
+          }
+        },
+        {
+          "id": 6,
+          "name": "המוכר פירות",
+          "ref": "Bava Batra 92a:1-102b:8",
+          "start": {
+            "daf": 92,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 102,
+            "amud": "b",
+            "segment": 8
+          }
+        },
+        {
+          "id": 7,
+          "name": "בית כור",
+          "ref": "Bava Batra 102b:9-108a:2",
+          "start": {
+            "daf": 102,
+            "amud": "b",
+            "segment": 9
+          },
+          "end": {
+            "daf": 108,
+            "amud": "a",
+            "segment": 2
+          }
+        },
+        {
+          "id": 8,
+          "name": "יש נוחלין",
+          "ref": "Bava Batra 108a:3-139b:6",
+          "start": {
+            "daf": 108,
+            "amud": "a",
+            "segment": 3
+          },
+          "end": {
+            "daf": 139,
+            "amud": "b",
+            "segment": 6
+          }
+        },
+        {
+          "id": 9,
+          "name": "מי שמת",
+          "ref": "Bava Batra 139b:7-159b:16",
+          "start": {
+            "daf": 139,
+            "amud": "b",
+            "segment": 7
+          },
+          "end": {
+            "daf": 159,
+            "amud": "b",
+            "segment": 16
+          }
+        },
+        {
+          "id": 10,
+          "name": "גט פשוט",
+          "ref": "Bava Batra 160a:1-176b:3",
+          "start": {
+            "daf": 160,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 176,
+            "amud": "b",
+            "segment": 3
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 176,
+        "amud": "b",
+        "segment": 3
+      }
+    },
+    {
+      "id": "sanhedrin",
+      "title": "Sanhedrin",
+      "name": "סנהדרין",
+      "seder": "נזיקין",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "דיני ממונות",
+          "ref": "Sanhedrin 2a:1-18a:4",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 18,
+            "amud": "a",
+            "segment": 4
+          }
+        },
+        {
+          "id": 2,
+          "name": "כהן גדול",
+          "ref": "Sanhedrin 18a:5-22b:23",
+          "start": {
+            "daf": 18,
+            "amud": "a",
+            "segment": 5
+          },
+          "end": {
+            "daf": 22,
+            "amud": "b",
+            "segment": 23
+          }
+        },
+        {
+          "id": 3,
+          "name": "זה בורר",
+          "ref": "Sanhedrin 23a:1-31b:21",
+          "start": {
+            "daf": 23,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 31,
+            "amud": "b",
+            "segment": 21
+          }
+        },
+        {
+          "id": 4,
+          "name": "אחד דיני ממונות",
+          "ref": "Sanhedrin 32a:1-39b:22",
+          "start": {
+            "daf": 32,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 39,
+            "amud": "b",
+            "segment": 22
+          }
+        },
+        {
+          "id": 5,
+          "name": "היו בודקין",
+          "ref": "Sanhedrin 40a:1-42a:20",
+          "start": {
+            "daf": 40,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 42,
+            "amud": "a",
+            "segment": 20
+          }
+        },
+        {
+          "id": 6,
+          "name": "נגמר הדין",
+          "ref": "Sanhedrin 42b:1-49a:17",
+          "start": {
+            "daf": 42,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 49,
+            "amud": "a",
+            "segment": 17
+          }
+        },
+        {
+          "id": 7,
+          "name": "ארבע מיתות",
+          "ref": "Sanhedrin 49b:1-68a:13",
+          "start": {
+            "daf": 49,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 68,
+            "amud": "a",
+            "segment": 13
+          }
+        },
+        {
+          "id": 8,
+          "name": "בן סורר ומורה",
+          "ref": "Sanhedrin 68b:1-75a:6",
+          "start": {
+            "daf": 68,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 75,
+            "amud": "a",
+            "segment": 6
+          }
+        },
+        {
+          "id": 9,
+          "name": "הנשרפין",
+          "ref": "Sanhedrin 75a:7-84a:18",
+          "start": {
+            "daf": 75,
+            "amud": "a",
+            "segment": 7
+          },
+          "end": {
+            "daf": 84,
+            "amud": "a",
+            "segment": 18
+          }
+        },
+        {
+          "id": 10,
+          "name": "אלו הן הנחנקין",
+          "ref": "Sanhedrin 84b:1-90a:14",
+          "start": {
+            "daf": 84,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 90,
+            "amud": "a",
+            "segment": 14
+          }
+        },
+        {
+          "id": 11,
+          "name": "חלק",
+          "ref": "Sanhedrin 90a:15-113b:4",
+          "start": {
+            "daf": 90,
+            "amud": "a",
+            "segment": 15
+          },
+          "end": {
+            "daf": 113,
+            "amud": "b",
+            "segment": 4
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 113,
+        "amud": "b",
+        "segment": 4
+      }
+    },
+    {
+      "id": "makkot",
+      "title": "Makkot",
+      "name": "מכות",
+      "seder": "נזיקין",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "כיצד העדים",
+          "ref": "Makkot 2a:1-7a:13",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 7,
+            "amud": "a",
+            "segment": 13
+          }
+        },
+        {
+          "id": 2,
+          "name": "אלו הן הגולין",
+          "ref": "Makkot 7a:14-13a:7",
+          "start": {
+            "daf": 7,
+            "amud": "a",
+            "segment": 14
+          },
+          "end": {
+            "daf": 13,
+            "amud": "a",
+            "segment": 7
+          }
+        },
+        {
+          "id": 3,
+          "name": "אלו הן הלוקין",
+          "ref": "Makkot 13a:8-24b:5",
+          "start": {
+            "daf": 13,
+            "amud": "a",
+            "segment": 8
+          },
+          "end": {
+            "daf": 24,
+            "amud": "b",
+            "segment": 5
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 24,
+        "amud": "b",
+        "segment": 5
+      }
+    },
+    {
+      "id": "shevuot",
+      "title": "Shevuot",
+      "name": "שבועות",
+      "seder": "נזיקין",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "שבועות שתים קמא",
+          "ref": "Shevuot 2a:1-14a:11",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 14,
+            "amud": "a",
+            "segment": 11
+          }
+        },
+        {
+          "id": 2,
+          "name": "ידיעות הטומאה",
+          "ref": "Shevuot 14a:12-19b:12",
+          "start": {
+            "daf": 14,
+            "amud": "a",
+            "segment": 12
+          },
+          "end": {
+            "daf": 19,
+            "amud": "b",
+            "segment": 12
+          }
+        },
+        {
+          "id": 3,
+          "name": "שבועות שתים בתרא",
+          "ref": "Shevuot 19b:13-29b:16",
+          "start": {
+            "daf": 19,
+            "amud": "b",
+            "segment": 13
+          },
+          "end": {
+            "daf": 29,
+            "amud": "b",
+            "segment": 16
+          }
+        },
+        {
+          "id": 4,
+          "name": "שבועת העדות",
+          "ref": "Shevuot 30a:1-36b:4",
+          "start": {
+            "daf": 30,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 36,
+            "amud": "b",
+            "segment": 4
+          }
+        },
+        {
+          "id": 5,
+          "name": "שבועת הפקדון",
+          "ref": "Shevuot 36b:5-38b:7",
+          "start": {
+            "daf": 36,
+            "amud": "b",
+            "segment": 5
+          },
+          "end": {
+            "daf": 38,
+            "amud": "b",
+            "segment": 7
+          }
+        },
+        {
+          "id": 6,
+          "name": "שבועת הדיינין",
+          "ref": "Shevuot 38b:8-44b:7",
+          "start": {
+            "daf": 38,
+            "amud": "b",
+            "segment": 8
+          },
+          "end": {
+            "daf": 44,
+            "amud": "b",
+            "segment": 7
+          }
+        },
+        {
+          "id": 7,
+          "name": "כל הנשבעין",
+          "ref": "Shevuot 44b:8-49a:3",
+          "start": {
+            "daf": 44,
+            "amud": "b",
+            "segment": 8
+          },
+          "end": {
+            "daf": 49,
+            "amud": "a",
+            "segment": 3
+          }
+        },
+        {
+          "id": 8,
+          "name": "ארבעה שומרין",
+          "ref": "Shevuot 49a:4-49b:16",
+          "start": {
+            "daf": 49,
+            "amud": "a",
+            "segment": 4
+          },
+          "end": {
+            "daf": 49,
+            "amud": "b",
+            "segment": 16
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 49,
+        "amud": "b",
+        "segment": 16
+      }
+    },
+    {
+      "id": "avodah-zarah",
+      "title": "Avodah Zarah",
+      "name": "עבודה זרה",
+      "seder": "נזיקין",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "לפני אידיהן",
+          "ref": "Avodah Zarah 2a:1-22a:10",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 22,
+            "amud": "a",
+            "segment": 10
+          }
+        },
+        {
+          "id": 2,
+          "name": "אין מעמידין",
+          "ref": "Avodah Zarah 22a:11-40b:11",
+          "start": {
+            "daf": 22,
+            "amud": "a",
+            "segment": 11
+          },
+          "end": {
+            "daf": 40,
+            "amud": "b",
+            "segment": 11
+          }
+        },
+        {
+          "id": 3,
+          "name": "כל הצלמים",
+          "ref": "Avodah Zarah 40b:12-49b:17",
+          "start": {
+            "daf": 40,
+            "amud": "b",
+            "segment": 12
+          },
+          "end": {
+            "daf": 49,
+            "amud": "b",
+            "segment": 17
+          }
+        },
+        {
+          "id": 4,
+          "name": "רבי ישמעאל",
+          "ref": "Avodah Zarah 49b:18-61b:16",
+          "start": {
+            "daf": 49,
+            "amud": "b",
+            "segment": 18
+          },
+          "end": {
+            "daf": 61,
+            "amud": "b",
+            "segment": 16
+          }
+        },
+        {
+          "id": 5,
+          "name": "השוכר את הפועל",
+          "ref": "Avodah Zarah 62a:1-76b:5",
+          "start": {
+            "daf": 62,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 76,
+            "amud": "b",
+            "segment": 5
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 76,
+        "amud": "b",
+        "segment": 5
+      }
+    },
+    {
+      "id": "horayot",
+      "title": "Horayot",
+      "name": "הוריות",
+      "seder": "נזיקין",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "הורו בית דין",
+          "ref": "Horayot 2a:1-6b:10",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 6,
+            "amud": "b",
+            "segment": 10
+          }
+        },
+        {
+          "id": 2,
+          "name": "הורה כהן משיח",
+          "ref": "Horayot 6b:11-9b:10",
+          "start": {
+            "daf": 6,
+            "amud": "b",
+            "segment": 11
+          },
+          "end": {
+            "daf": 9,
+            "amud": "b",
+            "segment": 10
+          }
+        },
+        {
+          "id": 3,
+          "name": "כהן משיח",
+          "ref": "Horayot 9b:11-14a:7",
+          "start": {
+            "daf": 9,
+            "amud": "b",
+            "segment": 11
+          },
+          "end": {
+            "daf": 14,
+            "amud": "a",
+            "segment": 7
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 14,
+        "amud": "a",
+        "segment": 7
+      }
+    },
+    {
+      "id": "zevachim",
+      "title": "Zevachim",
+      "name": "זבחים",
+      "seder": "קדשים",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "כל הזבחים",
+          "ref": "Zevachim 2a:1-15b:8",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 15,
+            "amud": "b",
+            "segment": 8
+          }
+        },
+        {
+          "id": 2,
+          "name": "כל הזבחים שקבלו דמן",
+          "ref": "Zevachim 15b:9-31b:13",
+          "start": {
+            "daf": 15,
+            "amud": "b",
+            "segment": 9
+          },
+          "end": {
+            "daf": 31,
+            "amud": "b",
+            "segment": 13
+          }
+        },
+        {
+          "id": 3,
+          "name": "כל הפסולין",
+          "ref": "Zevachim 31b:14-36b:15",
+          "start": {
+            "daf": 31,
+            "amud": "b",
+            "segment": 14
+          },
+          "end": {
+            "daf": 36,
+            "amud": "b",
+            "segment": 15
+          }
+        },
+        {
+          "id": 4,
+          "name": "בית שמאי",
+          "ref": "Zevachim 36b:16-47a:11",
+          "start": {
+            "daf": 36,
+            "amud": "b",
+            "segment": 16
+          },
+          "end": {
+            "daf": 47,
+            "amud": "a",
+            "segment": 11
+          }
+        },
+        {
+          "id": 5,
+          "name": "איזהו מקומן",
+          "ref": "Zevachim 47a:12-57b:12",
+          "start": {
+            "daf": 47,
+            "amud": "a",
+            "segment": 12
+          },
+          "end": {
+            "daf": 57,
+            "amud": "b",
+            "segment": 12
+          }
+        },
+        {
+          "id": 6,
+          "name": "קדשי קדשים",
+          "ref": "Zevachim 58a:1-66a:6",
+          "start": {
+            "daf": 58,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 66,
+            "amud": "a",
+            "segment": 6
+          }
+        },
+        {
+          "id": 7,
+          "name": "חטאת העוף",
+          "ref": "Zevachim 66a:7-70b:14",
+          "start": {
+            "daf": 66,
+            "amud": "a",
+            "segment": 7
+          },
+          "end": {
+            "daf": 70,
+            "amud": "b",
+            "segment": 14
+          }
+        },
+        {
+          "id": 8,
+          "name": "כל הזבחים שנתערבו",
+          "ref": "Zevachim 70b:15-83a:14",
+          "start": {
+            "daf": 70,
+            "amud": "b",
+            "segment": 15
+          },
+          "end": {
+            "daf": 83,
+            "amud": "a",
+            "segment": 14
+          }
+        },
+        {
+          "id": 9,
+          "name": "המזבח מקדש",
+          "ref": "Zevachim 83a:15-88b:15",
+          "start": {
+            "daf": 83,
+            "amud": "a",
+            "segment": 15
+          },
+          "end": {
+            "daf": 88,
+            "amud": "b",
+            "segment": 15
+          }
+        },
+        {
+          "id": 10,
+          "name": "כל התדיר",
+          "ref": "Zevachim 89a:1-92a:5",
+          "start": {
+            "daf": 89,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 92,
+            "amud": "a",
+            "segment": 5
+          }
+        },
+        {
+          "id": 11,
+          "name": "דם חטאת",
+          "ref": "Zevachim 92a:6-98b:5",
+          "start": {
+            "daf": 92,
+            "amud": "a",
+            "segment": 6
+          },
+          "end": {
+            "daf": 98,
+            "amud": "b",
+            "segment": 5
+          }
+        },
+        {
+          "id": 12,
+          "name": "טבול יום",
+          "ref": "Zevachim 98b:6-106a:8",
+          "start": {
+            "daf": 98,
+            "amud": "b",
+            "segment": 6
+          },
+          "end": {
+            "daf": 106,
+            "amud": "a",
+            "segment": 8
+          }
+        },
+        {
+          "id": 13,
+          "name": "השוחט והמעלה",
+          "ref": "Zevachim 106a:9-112a:10",
+          "start": {
+            "daf": 106,
+            "amud": "a",
+            "segment": 9
+          },
+          "end": {
+            "daf": 112,
+            "amud": "a",
+            "segment": 10
+          }
+        },
+        {
+          "id": 14,
+          "name": "פרת חטאת",
+          "ref": "Zevachim 112a:11-120b:3",
+          "start": {
+            "daf": 112,
+            "amud": "a",
+            "segment": 11
+          },
+          "end": {
+            "daf": 120,
+            "amud": "b",
+            "segment": 3
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 120,
+        "amud": "b",
+        "segment": 3
+      }
+    },
+    {
+      "id": "menachot",
+      "title": "Menachot",
+      "name": "מנחות",
+      "seder": "קדשים",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "כל המנחות",
+          "ref": "Menachot 2a:1-13a:6",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 13,
+            "amud": "a",
+            "segment": 6
+          }
+        },
+        {
+          "id": 2,
+          "name": "הקומץ את המנחה",
+          "ref": "Menachot 13a:7-17a:15",
+          "start": {
+            "daf": 13,
+            "amud": "a",
+            "segment": 7
+          },
+          "end": {
+            "daf": 17,
+            "amud": "a",
+            "segment": 15
+          }
+        },
+        {
+          "id": 3,
+          "name": "הקומץ רבה",
+          "ref": "Menachot 17a:16-38a:3",
+          "start": {
+            "daf": 17,
+            "amud": "a",
+            "segment": 16
+          },
+          "end": {
+            "daf": 38,
+            "amud": "a",
+            "segment": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "התכלת",
+          "ref": "Menachot 38a:4-52b:11",
+          "start": {
+            "daf": 38,
+            "amud": "a",
+            "segment": 4
+          },
+          "end": {
+            "daf": 52,
+            "amud": "b",
+            "segment": 11
+          }
+        },
+        {
+          "id": 5,
+          "name": "כל המנחות באות מצה",
+          "ref": "Menachot 52b:12-63b:8",
+          "start": {
+            "daf": 52,
+            "amud": "b",
+            "segment": 12
+          },
+          "end": {
+            "daf": 63,
+            "amud": "b",
+            "segment": 8
+          }
+        },
+        {
+          "id": 6,
+          "name": "רבי ישמעאל",
+          "ref": "Menachot 63b:9-72b:18",
+          "start": {
+            "daf": 63,
+            "amud": "b",
+            "segment": 9
+          },
+          "end": {
+            "daf": 72,
+            "amud": "b",
+            "segment": 18
+          }
+        },
+        {
+          "id": 7,
+          "name": "אלו מנחות נקמצות",
+          "ref": "Menachot 72b:19-76b:14",
+          "start": {
+            "daf": 72,
+            "amud": "b",
+            "segment": 19
+          },
+          "end": {
+            "daf": 76,
+            "amud": "b",
+            "segment": 14
+          }
+        },
+        {
+          "id": 8,
+          "name": "התודה היתה באה",
+          "ref": "Menachot 76b:15-83b:9",
+          "start": {
+            "daf": 76,
+            "amud": "b",
+            "segment": 15
+          },
+          "end": {
+            "daf": 83,
+            "amud": "b",
+            "segment": 9
+          }
+        },
+        {
+          "id": 9,
+          "name": "כל קרבנות ציבור",
+          "ref": "Menachot 83b:10-87a:20",
+          "start": {
+            "daf": 83,
+            "amud": "b",
+            "segment": 10
+          },
+          "end": {
+            "daf": 87,
+            "amud": "a",
+            "segment": 20
+          }
+        },
+        {
+          "id": 10,
+          "name": "שתי מדות",
+          "ref": "Menachot 87a:21-94a:10",
+          "start": {
+            "daf": 87,
+            "amud": "a",
+            "segment": 21
+          },
+          "end": {
+            "daf": 94,
+            "amud": "a",
+            "segment": 10
+          }
+        },
+        {
+          "id": 11,
+          "name": "שתי הלחם",
+          "ref": "Menachot 94a:11-100b:8",
+          "start": {
+            "daf": 94,
+            "amud": "a",
+            "segment": 11
+          },
+          "end": {
+            "daf": 100,
+            "amud": "b",
+            "segment": 8
+          }
+        },
+        {
+          "id": 12,
+          "name": "המנחות והנסכים",
+          "ref": "Menachot 100b:9-104b:12",
+          "start": {
+            "daf": 100,
+            "amud": "b",
+            "segment": 9
+          },
+          "end": {
+            "daf": 104,
+            "amud": "b",
+            "segment": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "הרי עלי עשרון",
+          "ref": "Menachot 104b:13-110a:24",
+          "start": {
+            "daf": 104,
+            "amud": "b",
+            "segment": 13
+          },
+          "end": {
+            "daf": 110,
+            "amud": "a",
+            "segment": 24
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 110,
+        "amud": "a",
+        "segment": 24
+      }
+    },
+    {
+      "id": "chullin",
+      "title": "Chullin",
+      "name": "חולין",
+      "seder": "קדשים",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "הכל שוחטין",
+          "ref": "Chullin 2a:1-26b:19",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 26,
+            "amud": "b",
+            "segment": 19
+          }
+        },
+        {
+          "id": 2,
+          "name": "השוחט",
+          "ref": "Chullin 27a:1-42a:2",
+          "start": {
+            "daf": 27,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 42,
+            "amud": "a",
+            "segment": 2
+          }
+        },
+        {
+          "id": 3,
+          "name": "אלו טרפות",
+          "ref": "Chullin 42a:3-67b:16",
+          "start": {
+            "daf": 42,
+            "amud": "a",
+            "segment": 3
+          },
+          "end": {
+            "daf": 67,
+            "amud": "b",
+            "segment": 16
+          }
+        },
+        {
+          "id": 4,
+          "name": "בהמה המקשה",
+          "ref": "Chullin 68a:1-78a:4",
+          "start": {
+            "daf": 68,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 78,
+            "amud": "a",
+            "segment": 4
+          }
+        },
+        {
+          "id": 5,
+          "name": "אותו ואת בנו",
+          "ref": "Chullin 78a:5-83b:2",
+          "start": {
+            "daf": 78,
+            "amud": "a",
+            "segment": 5
+          },
+          "end": {
+            "daf": 83,
+            "amud": "b",
+            "segment": 2
+          }
+        },
+        {
+          "id": 6,
+          "name": "כסוי הדם",
+          "ref": "Chullin 83b:3-89b:2",
+          "start": {
+            "daf": 83,
+            "amud": "b",
+            "segment": 3
+          },
+          "end": {
+            "daf": 89,
+            "amud": "b",
+            "segment": 2
+          }
+        },
+        {
+          "id": 7,
+          "name": "גיד הנשה",
+          "ref": "Chullin 89b:3-103b:15",
+          "start": {
+            "daf": 89,
+            "amud": "b",
+            "segment": 3
+          },
+          "end": {
+            "daf": 103,
+            "amud": "b",
+            "segment": 15
+          }
+        },
+        {
+          "id": 8,
+          "name": "כל הבשר",
+          "ref": "Chullin 103b:16-117b:5",
+          "start": {
+            "daf": 103,
+            "amud": "b",
+            "segment": 16
+          },
+          "end": {
+            "daf": 117,
+            "amud": "b",
+            "segment": 5
+          }
+        },
+        {
+          "id": 9,
+          "name": "העור והרוטב",
+          "ref": "Chullin 117b:6-129b:18",
+          "start": {
+            "daf": 117,
+            "amud": "b",
+            "segment": 6
+          },
+          "end": {
+            "daf": 129,
+            "amud": "b",
+            "segment": 18
+          }
+        },
+        {
+          "id": 10,
+          "name": "הזרוע והלחיים",
+          "ref": "Chullin 130a:1-134b:25",
+          "start": {
+            "daf": 130,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 134,
+            "amud": "b",
+            "segment": 25
+          }
+        },
+        {
+          "id": 11,
+          "name": "ראשית הגז",
+          "ref": "Chullin 135a:1-138b:2",
+          "start": {
+            "daf": 135,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 138,
+            "amud": "b",
+            "segment": 2
+          }
+        },
+        {
+          "id": 12,
+          "name": "שילוח הקן",
+          "ref": "Chullin 138b:3-142a:10",
+          "start": {
+            "daf": 138,
+            "amud": "b",
+            "segment": 3
+          },
+          "end": {
+            "daf": 142,
+            "amud": "a",
+            "segment": 10
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 142,
+        "amud": "a",
+        "segment": 10
+      }
+    },
+    {
+      "id": "bekhorot",
+      "title": "Bekhorot",
+      "name": "בכורות",
+      "seder": "קדשים",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "הלוקח עובר חמורו",
+          "ref": "Bekhorot 2a:1-13a:8",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 13,
+            "amud": "a",
+            "segment": 8
+          }
+        },
+        {
+          "id": 2,
+          "name": "הלוקח עובר פרתו",
+          "ref": "Bekhorot 13a:9-19b:4",
+          "start": {
+            "daf": 13,
+            "amud": "a",
+            "segment": 9
+          },
+          "end": {
+            "daf": 19,
+            "amud": "b",
+            "segment": 4
+          }
+        },
+        {
+          "id": 3,
+          "name": "הלוקח בהמה",
+          "ref": "Bekhorot 19b:5-26b:7",
+          "start": {
+            "daf": 19,
+            "amud": "b",
+            "segment": 5
+          },
+          "end": {
+            "daf": 26,
+            "amud": "b",
+            "segment": 7
+          }
+        },
+        {
+          "id": 4,
+          "name": "עד כמה",
+          "ref": "Bekhorot 26b:8-31a:13",
+          "start": {
+            "daf": 26,
+            "amud": "b",
+            "segment": 8
+          },
+          "end": {
+            "daf": 31,
+            "amud": "a",
+            "segment": 13
+          }
+        },
+        {
+          "id": 5,
+          "name": "כל פסולי המוקדשין",
+          "ref": "Bekhorot 31a:14-37a:14",
+          "start": {
+            "daf": 31,
+            "amud": "a",
+            "segment": 14
+          },
+          "end": {
+            "daf": 37,
+            "amud": "a",
+            "segment": 14
+          }
+        },
+        {
+          "id": 6,
+          "name": "על אלו מומין",
+          "ref": "Bekhorot 37a:15-43a:3",
+          "start": {
+            "daf": 37,
+            "amud": "a",
+            "segment": 15
+          },
+          "end": {
+            "daf": 43,
+            "amud": "a",
+            "segment": 3
+          }
+        },
+        {
+          "id": 7,
+          "name": "מומין אלו",
+          "ref": "Bekhorot 43a:4-46a:4",
+          "start": {
+            "daf": 43,
+            "amud": "a",
+            "segment": 4
+          },
+          "end": {
+            "daf": 46,
+            "amud": "a",
+            "segment": 4
+          }
+        },
+        {
+          "id": 8,
+          "name": "יש בכור",
+          "ref": "Bekhorot 46a:5-52b:18",
+          "start": {
+            "daf": 46,
+            "amud": "a",
+            "segment": 5
+          },
+          "end": {
+            "daf": 52,
+            "amud": "b",
+            "segment": 18
+          }
+        },
+        {
+          "id": 9,
+          "name": "מעשר בהמה",
+          "ref": "Bekhorot 53a:1-61a:14",
+          "start": {
+            "daf": 53,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 61,
+            "amud": "a",
+            "segment": 14
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 61,
+        "amud": "a",
+        "segment": 14
+      }
+    },
+    {
+      "id": "arakhin",
+      "title": "Arakhin",
+      "name": "ערכין",
+      "seder": "קדשים",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "הכל מעריכין",
+          "ref": "Arakhin 2a:1-7b:14",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 7,
+            "amud": "b",
+            "segment": 14
+          }
+        },
+        {
+          "id": 2,
+          "name": "אין נערכין",
+          "ref": "Arakhin 7b:15-13b:16",
+          "start": {
+            "daf": 7,
+            "amud": "b",
+            "segment": 15
+          },
+          "end": {
+            "daf": 13,
+            "amud": "b",
+            "segment": 16
+          }
+        },
+        {
+          "id": 3,
+          "name": "יש בערכין",
+          "ref": "Arakhin 13b:17-17a:8",
+          "start": {
+            "daf": 13,
+            "amud": "b",
+            "segment": 17
+          },
+          "end": {
+            "daf": 17,
+            "amud": "a",
+            "segment": 8
+          }
+        },
+        {
+          "id": 4,
+          "name": "השג יד",
+          "ref": "Arakhin 17a:9-19a:3",
+          "start": {
+            "daf": 17,
+            "amud": "a",
+            "segment": 9
+          },
+          "end": {
+            "daf": 19,
+            "amud": "a",
+            "segment": 3
+          }
+        },
+        {
+          "id": 5,
+          "name": "האומר משקלי עלי",
+          "ref": "Arakhin 19a:4-21b:12",
+          "start": {
+            "daf": 19,
+            "amud": "a",
+            "segment": 4
+          },
+          "end": {
+            "daf": 21,
+            "amud": "b",
+            "segment": 12
+          }
+        },
+        {
+          "id": 6,
+          "name": "שום היתומים",
+          "ref": "Arakhin 21b:13-24a:11",
+          "start": {
+            "daf": 21,
+            "amud": "b",
+            "segment": 13
+          },
+          "end": {
+            "daf": 24,
+            "amud": "a",
+            "segment": 11
+          }
+        },
+        {
+          "id": 7,
+          "name": "אין מקדישין",
+          "ref": "Arakhin 24a:12-27a:6",
+          "start": {
+            "daf": 24,
+            "amud": "a",
+            "segment": 12
+          },
+          "end": {
+            "daf": 27,
+            "amud": "a",
+            "segment": 6
+          }
+        },
+        {
+          "id": 8,
+          "name": "המקדיש שדהו",
+          "ref": "Arakhin 27a:7-29a:24",
+          "start": {
+            "daf": 27,
+            "amud": "a",
+            "segment": 7
+          },
+          "end": {
+            "daf": 29,
+            "amud": "a",
+            "segment": 24
+          }
+        },
+        {
+          "id": 9,
+          "name": "המוכר שדהו",
+          "ref": "Arakhin 29b:1-34a:9",
+          "start": {
+            "daf": 29,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 34,
+            "amud": "a",
+            "segment": 9
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 34,
+        "amud": "a",
+        "segment": 9
+      }
+    },
+    {
+      "id": "temurah",
+      "title": "Temurah",
+      "name": "תמורה",
+      "seder": "קדשים",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "הכל ממירין",
+          "ref": "Temurah 2a:1-13b:17",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 13,
+            "amud": "b",
+            "segment": 17
+          }
+        },
+        {
+          "id": 2,
+          "name": "יש בקרבנות",
+          "ref": "Temurah 14a:1-17b:2",
+          "start": {
+            "daf": 14,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 17,
+            "amud": "b",
+            "segment": 2
+          }
+        },
+        {
+          "id": 3,
+          "name": "אלו קדשים",
+          "ref": "Temurah 17b:3-21b:14",
+          "start": {
+            "daf": 17,
+            "amud": "b",
+            "segment": 3
+          },
+          "end": {
+            "daf": 21,
+            "amud": "b",
+            "segment": 14
+          }
+        },
+        {
+          "id": 4,
+          "name": "ולד חטאת",
+          "ref": "Temurah 21b:15-24a:30",
+          "start": {
+            "daf": 21,
+            "amud": "b",
+            "segment": 15
+          },
+          "end": {
+            "daf": 24,
+            "amud": "a",
+            "segment": 30
+          }
+        },
+        {
+          "id": 5,
+          "name": "כיצד מערימין",
+          "ref": "Temurah 24b:1-27b:19",
+          "start": {
+            "daf": 24,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 27,
+            "amud": "b",
+            "segment": 19
+          }
+        },
+        {
+          "id": 6,
+          "name": "כל האסורין",
+          "ref": "Temurah 28a:1-31a:12",
+          "start": {
+            "daf": 28,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 31,
+            "amud": "a",
+            "segment": 12
+          }
+        },
+        {
+          "id": 7,
+          "name": "יש בקדשי מזבח",
+          "ref": "Temurah 31a:13-34a:21",
+          "start": {
+            "daf": 31,
+            "amud": "a",
+            "segment": 13
+          },
+          "end": {
+            "daf": 34,
+            "amud": "a",
+            "segment": 21
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 34,
+        "amud": "a",
+        "segment": 21
+      }
+    },
+    {
+      "id": "keritot",
+      "title": "Keritot",
+      "name": "כריתות",
+      "seder": "קדשים",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "שלשים ושש",
+          "ref": "Keritot 2a:1-8b:3",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 8,
+            "amud": "b",
+            "segment": 3
+          }
+        },
+        {
+          "id": 2,
+          "name": "ארבעה מחוסרי כפרה",
+          "ref": "Keritot 8b:4-11b:5",
+          "start": {
+            "daf": 8,
+            "amud": "b",
+            "segment": 4
+          },
+          "end": {
+            "daf": 11,
+            "amud": "b",
+            "segment": 5
+          }
+        },
+        {
+          "id": 3,
+          "name": "אמרו לו",
+          "ref": "Keritot 11b:6-17a:25",
+          "start": {
+            "daf": 11,
+            "amud": "b",
+            "segment": 6
+          },
+          "end": {
+            "daf": 17,
+            "amud": "a",
+            "segment": 25
+          }
+        },
+        {
+          "id": 4,
+          "name": "ספק אכל חלב",
+          "ref": "Keritot 17a:26-20b:6",
+          "start": {
+            "daf": 17,
+            "amud": "a",
+            "segment": 26
+          },
+          "end": {
+            "daf": 20,
+            "amud": "b",
+            "segment": 6
+          }
+        },
+        {
+          "id": 5,
+          "name": "דם שחיטה",
+          "ref": "Keritot 20b:7-23b:11",
+          "start": {
+            "daf": 20,
+            "amud": "b",
+            "segment": 7
+          },
+          "end": {
+            "daf": 23,
+            "amud": "b",
+            "segment": 11
+          }
+        },
+        {
+          "id": 6,
+          "name": "המביא אשם",
+          "ref": "Keritot 23b:12-28b:9",
+          "start": {
+            "daf": 23,
+            "amud": "b",
+            "segment": 12
+          },
+          "end": {
+            "daf": 28,
+            "amud": "b",
+            "segment": 9
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 28,
+        "amud": "b",
+        "segment": 9
+      }
+    },
+    {
+      "id": "meilah",
+      "title": "Meilah",
+      "name": "מעילה",
+      "seder": "קדשים",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "קדשי קדשים",
+          "ref": "Meilah 2a:1-8a:2",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 8,
+            "amud": "a",
+            "segment": 2
+          }
+        },
+        {
+          "id": 2,
+          "name": "חטאת העוף",
+          "ref": "Meilah 8a:3-10b:6",
+          "start": {
+            "daf": 8,
+            "amud": "a",
+            "segment": 3
+          },
+          "end": {
+            "daf": 10,
+            "amud": "b",
+            "segment": 6
+          }
+        },
+        {
+          "id": 3,
+          "name": "ולד חטאת",
+          "ref": "Meilah 10b:7-14b:10",
+          "start": {
+            "daf": 10,
+            "amud": "b",
+            "segment": 7
+          },
+          "end": {
+            "daf": 14,
+            "amud": "b",
+            "segment": 10
+          }
+        },
+        {
+          "id": 4,
+          "name": "קדשי מזבח",
+          "ref": "Meilah 15a:1-18a:7",
+          "start": {
+            "daf": 15,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 18,
+            "amud": "a",
+            "segment": 7
+          }
+        },
+        {
+          "id": 5,
+          "name": "הנהנה מן ההקדש",
+          "ref": "Meilah 18a:8-20a:11",
+          "start": {
+            "daf": 18,
+            "amud": "a",
+            "segment": 8
+          },
+          "end": {
+            "daf": 20,
+            "amud": "a",
+            "segment": 11
+          }
+        },
+        {
+          "id": 6,
+          "name": "השליח שעשה שליחותו",
+          "ref": "Meilah 20a:12-22a:4",
+          "start": {
+            "daf": 20,
+            "amud": "a",
+            "segment": 12
+          },
+          "end": {
+            "daf": 22,
+            "amud": "a",
+            "segment": 4
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 22,
+        "amud": "a",
+        "segment": 4
+      }
+    },
+    {
+      "id": "tamid",
+      "title": "Tamid",
+      "name": "תמיד",
+      "seder": "קדשים",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "בשלשה מקומות",
+          "ref": "Tamid 25b:1-28b:7",
+          "start": {
+            "daf": 25,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 28,
+            "amud": "b",
+            "segment": 7
+          }
+        },
+        {
+          "id": 2,
+          "name": "ראוהו אחיו",
+          "ref": "Tamid 28b:8-30a:4",
+          "start": {
+            "daf": 28,
+            "amud": "b",
+            "segment": 8
+          },
+          "end": {
+            "daf": 30,
+            "amud": "a",
+            "segment": 4
+          }
+        },
+        {
+          "id": 3,
+          "name": "אמר להם הממונה בואו",
+          "ref": "Tamid 30a:5-30b:12",
+          "start": {
+            "daf": 30,
+            "amud": "a",
+            "segment": 5
+          },
+          "end": {
+            "daf": 30,
+            "amud": "b",
+            "segment": 12
+          }
+        },
+        {
+          "id": 4,
+          "name": "לא היו כופתין",
+          "ref": "Tamid 30b:13-32b:7",
+          "start": {
+            "daf": 30,
+            "amud": "b",
+            "segment": 13
+          },
+          "end": {
+            "daf": 32,
+            "amud": "b",
+            "segment": 7
+          }
+        },
+        {
+          "id": 5,
+          "name": "אמר להם הממונה ברכו",
+          "ref": "Tamid 32b:8-33a:7",
+          "start": {
+            "daf": 32,
+            "amud": "b",
+            "segment": 8
+          },
+          "end": {
+            "daf": 33,
+            "amud": "a",
+            "segment": 7
+          }
+        },
+        {
+          "id": 6,
+          "name": "החלו עולים",
+          "ref": "Tamid 33a:8-14",
+          "start": {
+            "daf": 33,
+            "amud": "a",
+            "segment": 8
+          },
+          "end": {
+            "daf": 33,
+            "amud": "a",
+            "segment": 14
+          }
+        },
+        {
+          "id": 7,
+          "name": "בזמן שכהן גדול",
+          "ref": "Tamid 33b:1-12",
+          "start": {
+            "daf": 33,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 33,
+            "amud": "b",
+            "segment": 12
+          }
+        }
+      ],
+      "start": {
+        "daf": 25,
+        "amud": "b",
+        "segment": 1
+      },
+      "end": {
+        "daf": 33,
+        "amud": "b",
+        "segment": 12
+      }
+    },
+    {
+      "id": "niddah",
+      "title": "Niddah",
+      "name": "נדה",
+      "seder": "טהרות",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "שמאי אומר",
+          "ref": "Niddah 2a:1-12b:11",
+          "start": {
+            "daf": 2,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 12,
+            "amud": "b",
+            "segment": 11
+          }
+        },
+        {
+          "id": 2,
+          "name": "כל היד",
+          "ref": "Niddah 13a:1-21a:3",
+          "start": {
+            "daf": 13,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 21,
+            "amud": "a",
+            "segment": 3
+          }
+        },
+        {
+          "id": 3,
+          "name": "המפלת חתיכה",
+          "ref": "Niddah 21a:4-31b:17",
+          "start": {
+            "daf": 21,
+            "amud": "a",
+            "segment": 4
+          },
+          "end": {
+            "daf": 31,
+            "amud": "b",
+            "segment": 17
+          }
+        },
+        {
+          "id": 4,
+          "name": "בנות כותים",
+          "ref": "Niddah 31b:18-39b:12",
+          "start": {
+            "daf": 31,
+            "amud": "b",
+            "segment": 18
+          },
+          "end": {
+            "daf": 39,
+            "amud": "b",
+            "segment": 12
+          }
+        },
+        {
+          "id": 5,
+          "name": "יוצא דופן",
+          "ref": "Niddah 40a:1-48a:10",
+          "start": {
+            "daf": 40,
+            "amud": "a",
+            "segment": 1
+          },
+          "end": {
+            "daf": 48,
+            "amud": "a",
+            "segment": 10
+          }
+        },
+        {
+          "id": 6,
+          "name": "בא סימן",
+          "ref": "Niddah 48a:11-54b:9",
+          "start": {
+            "daf": 48,
+            "amud": "a",
+            "segment": 11
+          },
+          "end": {
+            "daf": 54,
+            "amud": "b",
+            "segment": 9
+          }
+        },
+        {
+          "id": 7,
+          "name": "דם הנדה",
+          "ref": "Niddah 54b:10-57a:17",
+          "start": {
+            "daf": 54,
+            "amud": "b",
+            "segment": 10
+          },
+          "end": {
+            "daf": 57,
+            "amud": "a",
+            "segment": 17
+          }
+        },
+        {
+          "id": 8,
+          "name": "הרואה כתם",
+          "ref": "Niddah 57b:1-59a:17",
+          "start": {
+            "daf": 57,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 59,
+            "amud": "a",
+            "segment": 17
+          }
+        },
+        {
+          "id": 9,
+          "name": "האשה שהיא עושה",
+          "ref": "Niddah 59b:1-64b:4",
+          "start": {
+            "daf": 59,
+            "amud": "b",
+            "segment": 1
+          },
+          "end": {
+            "daf": 64,
+            "amud": "b",
+            "segment": 4
+          }
+        },
+        {
+          "id": 10,
+          "name": "תינוקת",
+          "ref": "Niddah 64b:5-73a:16",
+          "start": {
+            "daf": 64,
+            "amud": "b",
+            "segment": 5
+          },
+          "end": {
+            "daf": 73,
+            "amud": "a",
+            "segment": 16
+          }
+        }
+      ],
+      "start": {
+        "daf": 2,
+        "amud": "a",
+        "segment": 1
+      },
+      "end": {
+        "daf": 73,
+        "amud": "a",
+        "segment": 16
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+appId: org.beitmidrash.torah
+productName: Beit Midrash
+executableName: BeitMidrash
+asar: true
+directories:
+  output: artifacts
+files:
+  - desktop-main.cjs
+  - server.mjs
+  - sync.mjs
+  - local-cloud.mjs
+  - cloud-config.json
+  - public/**/*
+  - package.json
+win:
+  target:
+    - target: nsis
+      arch: [x64]
+  icon: public/app.ico
+  artifactName: Beit-Midrash-Setup-${version}.${ext}
+  signAndEditExecutable: false
+nsis:
+  oneClick: false
+  perMachine: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  shortcutName: בית המדרש שלי
+  deleteAppDataOnUninstall: false
+  installerLanguages: [he_IL, en_US]
+  displayLanguageSelector: true

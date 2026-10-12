@@ -1,0 +1,37 @@
+{
+  "name": "chidushei-torah",
+  "version": "1.2.0",
+  "private": true,
+  "type": "module",
+  "main": "desktop-main.cjs",
+  "description": "בית המדרש שלי — ספרייה אישית לחידושי תורה",
+  "author": "Beit Midrash",
+  "scripts": {
+    "start": "node server.mjs",
+    "catalog": "node scripts/catalog.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "desktop": "electron .",
+    "package-desktop": "node scripts/package-desktop.mjs",
+    "build:installer": "electron-builder --win nsis --x64",
+    "cloud:migrate": "node --env-file=.env.local scripts/migrate-cloud.mjs"
+  },
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "better-auth": "^1.7.7",
+    "docx": "^9.5.1",
+    "express": "^4.21.2",
+    "htmlparser2": "10.0.0",
+    "mammoth": "^1.11.0",
+    "multer": "^2.0.2",
+    "pg": "^8.23.1",
+    "postgres": "^3.4.9",
+    "sanitize-html": "2.18.0"
+  },
+  "devDependencies": {
+    "@electron/packager": "^20.3.0",
+    "@playwright/test": "^1.56.0",
+    "electron": "^44.7.0",
+    "electron-builder": "^26.15.3",
+    "vercel": "^63.1.2"
+  }
+}

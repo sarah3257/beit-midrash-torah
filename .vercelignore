@@ -1,0 +1,12 @@
+node_modules
+data
+desktop
+.runtime
+artifacts
+screenshots
+tests
+.git
+.env*
+*.lnk
+Start.*
+Stop.*

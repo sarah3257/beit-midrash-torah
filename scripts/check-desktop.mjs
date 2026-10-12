@@ -1,0 +1,35 @@
+import {_electron,expect} from '@playwright/test';
+import fs from 'node:fs/promises';
+import os from 'node:os';
+import path from 'node:path';
+import assert from 'node:assert/strict';
+import {createHash} from 'node:crypto';
+const root=process.cwd();
+const original=await fs.readFile(path.join(root,'data/library.json'));
+const hash=b=>createHash('sha256').update(b).digest('hex');
+const dir=await fs.mkdtemp(path.join(os.tmpdir(),'torah-desktop-'));
+const versionNumber=JSON.parse(await fs.readFile('package.json','utf8')).version;
+const exe=process.env.TORAH_TEST_EXE||path.join(root,'desktop',versionNumber,'Beit Midrash-win32-x64','BeitMidrash.exe');
+const env={...process.env,TORAH_DESKTOP_TEST_DATA_DIR:dir};delete env.ELECTRON_RUN_AS_NODE;
+let electron;
+try{
+ electron=await _electron.launch({executablePath:exe,env,timeout:45000});
+ const win=await electron.firstWindow();const errors=[];win.on('pageerror',e=>errors.push(e.message));
+ await expect(win.locator('h1').first()).toHaveText('ברוכים הבאים לבית המדרש');
+ await win.locator('.hero [data-action="new"]').click();await win.locator('#new-title').fill('בדיקת תוכנת המחשב');await win.locator('#location-form button[type="submit"]').click();
+ await win.locator('#rich-editor').fill('חידוש שנשמר בתוכנת Windows');await expect(win.locator('#save-state')).toContainText('כל השינויים נשמרו');
+ const url=win.url();await win.reload();await expect(win.locator('#rich-editor')).toContainText('חידוש שנשמר');
+ const exported=path.join(dir,'desktop-export.docx');
+ await electron.evaluate(({dialog},file)=>{dialog.showSaveDialogSync=()=>file;},exported);
+ await win.locator('[data-action="export-docx"]').click();
+ await expect.poll(async()=>{try{return (await fs.stat(exported)).size;}catch{return 0;}}).toBeGreaterThan(0);
+ assert.equal((await fs.readFile(exported)).subarray(0,2).toString(),'PK');
+ await win.locator('.brand').click();await win.locator('.hero [data-action="new"]').click();await win.locator('#loc-tractate').selectOption('other');await win.locator('#loc-topic').fill('אמונה');await win.locator('#new-title').fill('חידוש בנושא אמונה');await win.locator('#location-form [type="submit"]').click();await win.locator('#rich-editor').fill('תוכן שאינו משויך למסכת או דף');await expect(win.locator('#save-state')).toContainText('כל השינויים נשמרו');await expect(win.locator('.editor-panel')).toContainText('אמונה');
+ await win.locator('[data-action="export-docx"]').click();await expect.poll(async()=>{const html=await fs.readFile(path.join(dir,'library.json'),'utf8');return JSON.parse(html).documents.filter(d=>d.kind==='topic').length;}).toBe(1);
+ assert.equal(await win.evaluate(()=>typeof window.require),'undefined');assert.deepEqual(errors,[]);
+ const version=await electron.evaluate(({app})=>({packaged:app.isPackaged,version:process.versions.electron}));assert.equal(version.packaged,true);
+ await electron.close();electron=null;
+ electron=await _electron.launch({executablePath:exe,env,timeout:45000});const again=await electron.firstWindow();await expect(again.locator('h1').first()).toHaveText('ברוכים הבאים לבית המדרש');await again.getByRole('link',{name:/חידוש בנושא אמונה תוכן שאינו/}).click();await expect(again.locator('#rich-editor')).toContainText('תוכן שאינו משויך');await expect(again.locator('.editor-panel')).toContainText('אמונה');
+ assert.equal(hash(original),hash(await fs.readFile(path.join(root,'data/library.json'))));
+ console.log('PASS: packaged Windows app, isolated storage, writing, autosave, reload, restart, renderer sandbox; original library unchanged.',version);
+}finally{if(electron)await electron.close();await fs.rm(dir,{recursive:true,force:true});}
