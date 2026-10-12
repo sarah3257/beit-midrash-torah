@@ -1,0 +1,15 @@
+node_modules/
+data/
+test-results/
+*.log
+.runtime/
+desktop/
+
+.vercel
+.env*
+
+artifacts/
+build/
+.cloud-session.json
+.agents/
+
