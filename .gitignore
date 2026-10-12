@@ -17,3 +17,6 @@ build/
 screenshots/
 *.lnk
 
+
+cloud/vendor/
+

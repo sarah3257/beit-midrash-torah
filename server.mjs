@@ -1,7 +1,7 @@
 import express from 'express';
 import multer from 'multer';
 import mammoth from 'mammoth';
-import sanitizeHtml from 'sanitize-html';
+const {default:sanitizeHtml}=await import(process.env.VERCEL?'./cloud/vendor/sanitize.cjs':'sanitize-html');
 import archiver from 'archiver';
 import { Document, Packer, Paragraph, TextRun, AlignmentType } from 'docx';
 import { Parser } from 'htmlparser2';
