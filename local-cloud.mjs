@@ -13,7 +13,7 @@ export async function mountLocalCloud(app,{dataDir,read,change,asyncRoute,secret
  try{const saved=JSON.parse(await fs.readFile(sessionPath,'utf8'));session={...saved,token:saved.encrypted?secretCodec?.decode(saved.token):saved.token};if(!session.token)session=null;}catch{}
  async function request(endpoint,options={}){
   try{
-   const response=await fetch(config.url+endpoint,{...options,redirect:'error',signal:AbortSignal.timeout(90000),headers:{'Content-Type':'application/json',...(session?{Authorization:'Bearer '+session.token}:{}),...options.headers}});
+   const response=await fetch(config.url+endpoint,{...options,redirect:'error',signal:AbortSignal.timeout(90000),headers:{'Content-Type':'application/json',Origin:config.url,...(session?{Authorization:'Bearer '+session.token}:{}),...options.headers}});
    if(!response.ok){const body=await response.json().catch(()=>({}));throw fail(response.status,response.status===401?'יש להתחבר מחדש לחשבון בענן':body.error||body.message||'הענן לא השלים את הבקשה');}
    return response;
   }catch(e){if(e.status)throw e;throw fail(503,'אין חיבור לענן כרגע. כל הכתבים נשארו במחשב; אפשר להמשיך לכתוב ולנסות שוב כשיש אינטרנט.');}

@@ -4,6 +4,8 @@ const fs = require('node:fs');
 const { pathToFileURL } = require('node:url');
 let window, ownedServer, appOrigin;
 const testDir = process.env.TORAH_DESKTOP_TEST_DATA_DIR;
+// Desktop always uses the local server, even when launched from a cloud CLI environment.
+delete process.env.VERCEL;
 if (testDir) app.setPath('userData', path.join(testDir, 'electron-profile'));
 const single = app.requestSingleInstanceLock();
 if (!single) app.quit();
